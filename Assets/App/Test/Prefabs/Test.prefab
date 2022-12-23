@@ -1,0 +1,561 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &860022079244546078
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7218306679911547233}
+  - component: {fileID: 7386145192686675520}
+  m_Layer: 0
+  m_Name: TestUniqAPI
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7218306679911547233
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 860022079244546078}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7915385762552478162}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7386145192686675520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 860022079244546078}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed593c0b17ce439409da5fc35a211ea9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  wallet: 0x8De871Da522Ae2cD822bc375f933272C1056486a
+  collections: 
+  jsonRespone: "{\r\n  \"status\": true,\r\n  \"data\": {\r\n    \"totalItems\":
+    6,\r\n    \"result\": [\r\n      {\r\n        \"fullName\": \"null null\",\r\n       
+    \"id\": 102,\r\n        \"user_uuid\": \"5bc294fe-d666-476a-bc44-802465285c1f\",\r\n       
+    \"username\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n        \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n        \"user_first_name\":
+    null,\r\n        \"user_last_name\": null,\r\n        \"email\": null,\r\n       
+    \"location\": null,\r\n        \"city\": null,\r\n        \"cover_photo_path\":
+    null,\r\n        \"profile_photo_path\": null,\r\n        \"website_url\": null,\r\n       
+    \"about_section_title\": null,\r\n        \"about_desc\": null,\r\n        \"twitter_url\":
+    null,\r\n        \"telegram_url\": null,\r\n        \"dribble_url\": null,\r\n       
+    \"linkedin_url\": null,\r\n        \"instagram_url\": null,\r\n        \"youtube_url\":
+    null,\r\n        \"is_ban\": false,\r\n        \"createdAt\": \"2021-09-02T02:29:43.000Z\",\r\n       
+    \"updatedAt\": \"2021-09-02T02:29:43.000Z\",\r\n        \"user_collectible_balance_info\":
+    [\r\n          {\r\n            \"tokenId\": 586,\r\n            \"tokenAddress\":
+    \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n            \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n            \"quantity\":
+    1,\r\n            \"collectible_balance_user\": {\r\n              \"fullName\":
+    \"null null\",\r\n              \"username\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"profile_photo_path\": null,\r\n              \"cover_photo_path\": null,\r\n             
+    \"user_first_name\": null,\r\n              \"user_last_name\": null\r\n           
+    },\r\n            \"collectible_balance_of_collectible\": {\r\n             
+    \"collectible_category\": \"Art\",\r\n              \"collectible_image_mime_type\":
+    \"image/jpeg\",\r\n              \"collectible_name\": \"Triangle Logo\",\r\n             
+    \"collectible_type\": \"erc721\",\r\n              \"collectible_uuid\": \"dd86046b-25bb-47f1-af31-5779b352d925\",\r\n             
+    \"cost\": 0,\r\n              \"createdAt\": \"2021-09-02T02:32:59.000Z\",\r\n             
+    \"ipfs_media_path\": \"https://ipfs.infura.io/ipfs/QmPypBUE7Jubi3SRcUiuSUW7Y8HrKZAK4SQkc5RQLzpEmo\",\r\n             
+    \"alternative_media_path\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/274d8b5fe40a1dcc308b8f5ecef3dbf6\",\r\n             
+    \"alternative_media_path_medium\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/274d8b5fe40a1dcc308b8f5ecef3dbf6-medium\",\r\n             
+    \"lock_status\": 0,\r\n              \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"tokenID\": 586,\r\n              \"noOfCopies\": 1,\r\n              \"ipfs_animation_media_path\":
+    null,\r\n              \"alternative_animation_media_path\": null,\r\n             
+    \"animation_media_mime_type\": \"\",\r\n              \"collectibles_user\":
+    {\r\n                \"fullName\": \"null null\",\r\n                \"username\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"profile_photo_path\":
+    null,\r\n                \"cover_photo_path\": null,\r\n                \"user_first_name\":
+    null,\r\n                \"user_last_name\": null\r\n              },\r\n             
+    \"collectible_saleinfo\": [\r\n                \r\n              ],\r\n             
+    \"collectible_collection\": {\r\n                \"tokenName\": \"Unique Dev\",\r\n               
+    \"tokenType\": \"erc721\",\r\n                \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n               
+    \"tokenLogo\": \"QmQxTW2N5YSPSaA4gmD5ZjTyB7CCYAG51ooAtn5cCzNEG7\",\r\n               
+    \"collectiontype\": \"system\"\r\n              }\r\n            }\r\n         
+    },\r\n          {\r\n            \"tokenId\": 587,\r\n            \"tokenAddress\":
+    \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n            \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n            \"quantity\":
+    1,\r\n            \"collectible_balance_user\": {\r\n              \"fullName\":
+    \"null null\",\r\n              \"username\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"profile_photo_path\": null,\r\n              \"cover_photo_path\": null,\r\n             
+    \"user_first_name\": null,\r\n              \"user_last_name\": null\r\n           
+    },\r\n            \"collectible_balance_of_collectible\": {\r\n             
+    \"collectible_category\": \"Art\",\r\n              \"collectible_image_mime_type\":
+    \"image/jpeg\",\r\n              \"collectible_name\": \"RGB Logo\",\r\n             
+    \"collectible_type\": \"erc721\",\r\n              \"collectible_uuid\": \"8189a5e9-fb5c-4c0c-bd26-f776d0fa2b8e\",\r\n             
+    \"cost\": 0,\r\n              \"createdAt\": \"2021-09-02T02:35:59.000Z\",\r\n             
+    \"ipfs_media_path\": \"https://ipfs.infura.io/ipfs/QmcpgNWTz78jDAUyJCwo7La87UtbSsAXBSXuuyrdjBWomX\",\r\n             
+    \"alternative_media_path\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/a01b61420573772731102f308ecb3447\",\r\n             
+    \"alternative_media_path_medium\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/a01b61420573772731102f308ecb3447-medium\",\r\n             
+    \"lock_status\": 0,\r\n              \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"tokenID\": 587,\r\n              \"noOfCopies\": 1,\r\n              \"ipfs_animation_media_path\":
+    null,\r\n              \"alternative_animation_media_path\": null,\r\n             
+    \"animation_media_mime_type\": \"\",\r\n              \"collectibles_user\":
+    {\r\n                \"fullName\": \"null null\",\r\n                \"username\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"profile_photo_path\":
+    null,\r\n                \"cover_photo_path\": null,\r\n                \"user_first_name\":
+    null,\r\n                \"user_last_name\": null\r\n              },\r\n             
+    \"collectible_saleinfo\": [\r\n                \r\n              ],\r\n             
+    \"collectible_collection\": {\r\n                \"tokenName\": \"Unique Dev\",\r\n               
+    \"tokenType\": \"erc721\",\r\n                \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n               
+    \"tokenLogo\": \"QmQxTW2N5YSPSaA4gmD5ZjTyB7CCYAG51ooAtn5cCzNEG7\",\r\n               
+    \"collectiontype\": \"system\"\r\n              }\r\n            }\r\n         
+    },\r\n          {\r\n            \"tokenId\": 588,\r\n            \"tokenAddress\":
+    \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n            \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n            \"quantity\":
+    1,\r\n            \"collectible_balance_user\": {\r\n              \"fullName\":
+    \"null null\",\r\n              \"username\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"profile_photo_path\": null,\r\n              \"cover_photo_path\": null,\r\n             
+    \"user_first_name\": null,\r\n              \"user_last_name\": null\r\n           
+    },\r\n            \"collectible_balance_of_collectible\": {\r\n             
+    \"collectible_category\": \"Art\",\r\n              \"collectible_image_mime_type\":
+    \"image/jpeg\",\r\n              \"collectible_name\": \"Beach\",\r\n             
+    \"collectible_type\": \"erc721\",\r\n              \"collectible_uuid\": \"4e1c771a-7781-423e-b2c5-bf9521dadee0\",\r\n             
+    \"cost\": 0,\r\n              \"createdAt\": \"2021-09-04T12:17:39.000Z\",\r\n             
+    \"ipfs_media_path\": \"https://ipfs.infura.io/ipfs/QmefEwnP3EJxPhviVkxLFV8NJZQb1D1n4zVxu6HZwYd6V8\",\r\n             
+    \"alternative_media_path\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/d6ff31f771b0fa5034d2c01c8ff907d2\",\r\n             
+    \"alternative_media_path_medium\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/d6ff31f771b0fa5034d2c01c8ff907d2-medium\",\r\n             
+    \"lock_status\": 0,\r\n              \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"tokenID\": 588,\r\n              \"noOfCopies\": 1,\r\n              \"ipfs_animation_media_path\":
+    null,\r\n              \"alternative_animation_media_path\": null,\r\n             
+    \"animation_media_mime_type\": \"\",\r\n              \"collectibles_user\":
+    {\r\n                \"fullName\": \"null null\",\r\n                \"username\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"profile_photo_path\":
+    null,\r\n                \"cover_photo_path\": null,\r\n                \"user_first_name\":
+    null,\r\n                \"user_last_name\": null\r\n              },\r\n             
+    \"collectible_saleinfo\": [\r\n                \r\n              ],\r\n             
+    \"collectible_collection\": {\r\n                \"tokenName\": \"Unique Dev\",\r\n               
+    \"tokenType\": \"erc721\",\r\n                \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n               
+    \"tokenLogo\": \"QmQxTW2N5YSPSaA4gmD5ZjTyB7CCYAG51ooAtn5cCzNEG7\",\r\n               
+    \"collectiontype\": \"system\"\r\n              }\r\n            }\r\n         
+    },\r\n          {\r\n            \"tokenId\": 589,\r\n            \"tokenAddress\":
+    \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n            \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n            \"quantity\":
+    1,\r\n            \"collectible_balance_user\": {\r\n              \"fullName\":
+    \"null null\",\r\n              \"username\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"profile_photo_path\": null,\r\n              \"cover_photo_path\": null,\r\n             
+    \"user_first_name\": null,\r\n              \"user_last_name\": null\r\n           
+    },\r\n            \"collectible_balance_of_collectible\": {\r\n             
+    \"collectible_category\": \"Art\",\r\n              \"collectible_image_mime_type\":
+    \"image/png\",\r\n              \"collectible_name\": \"Panda\",\r\n             
+    \"collectible_type\": \"erc721\",\r\n              \"collectible_uuid\": \"5bc4750c-0a0f-447f-a88b-504b4dfd0cd0\",\r\n             
+    \"cost\": 0,\r\n              \"createdAt\": \"2021-09-04T12:18:53.000Z\",\r\n             
+    \"ipfs_media_path\": \"https://ipfs.infura.io/ipfs/Qmd3bh6a35UC6NxrK2Q7gUpGe6JFUF3uZDTvMMzZ7iKayz\",\r\n             
+    \"alternative_media_path\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/7a8ec1729ef6a2ed4f79bcfefc269700\",\r\n             
+    \"alternative_media_path_medium\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/7a8ec1729ef6a2ed4f79bcfefc269700-medium\",\r\n             
+    \"lock_status\": 0,\r\n              \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"tokenID\": 589,\r\n              \"noOfCopies\": 1,\r\n              \"ipfs_animation_media_path\":
+    null,\r\n              \"alternative_animation_media_path\": null,\r\n             
+    \"animation_media_mime_type\": \"\",\r\n              \"collectibles_user\":
+    {\r\n                \"fullName\": \"null null\",\r\n                \"username\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"profile_photo_path\":
+    null,\r\n                \"cover_photo_path\": null,\r\n                \"user_first_name\":
+    null,\r\n                \"user_last_name\": null\r\n              },\r\n             
+    \"collectible_saleinfo\": [\r\n                \r\n              ],\r\n             
+    \"collectible_collection\": {\r\n                \"tokenName\": \"Unique Dev\",\r\n               
+    \"tokenType\": \"erc721\",\r\n                \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n               
+    \"tokenLogo\": \"QmQxTW2N5YSPSaA4gmD5ZjTyB7CCYAG51ooAtn5cCzNEG7\",\r\n               
+    \"collectiontype\": \"system\"\r\n              }\r\n            }\r\n         
+    },\r\n          {\r\n            \"tokenId\": 590,\r\n            \"tokenAddress\":
+    \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n            \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n            \"quantity\":
+    1,\r\n            \"collectible_balance_user\": {\r\n              \"fullName\":
+    \"null null\",\r\n              \"username\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"profile_photo_path\": null,\r\n              \"cover_photo_path\": null,\r\n             
+    \"user_first_name\": null,\r\n              \"user_last_name\": null\r\n           
+    },\r\n            \"collectible_balance_of_collectible\": {\r\n             
+    \"collectible_category\": \"Art\",\r\n              \"collectible_image_mime_type\":
+    \"image/jpeg\",\r\n              \"collectible_name\": \"Patrick Gopud\",\r\n             
+    \"collectible_type\": \"erc721\",\r\n              \"collectible_uuid\": \"5103f327-22f9-4ce9-8b02-a3c15f3bc051\",\r\n             
+    \"cost\": 0,\r\n              \"createdAt\": \"2021-09-04T12:19:54.000Z\",\r\n             
+    \"ipfs_media_path\": \"https://ipfs.infura.io/ipfs/QmYikEALX5H9cqiqYr91BQN5rSJQVTRphFQZ5o1BJFBZ2e\",\r\n             
+    \"alternative_media_path\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/a1cb101542cc56e918b35c34d1d6abdb\",\r\n             
+    \"alternative_media_path_medium\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/a1cb101542cc56e918b35c34d1d6abdb-medium\",\r\n             
+    \"lock_status\": 0,\r\n              \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"tokenID\": 590,\r\n              \"noOfCopies\": 1,\r\n              \"ipfs_animation_media_path\":
+    null,\r\n              \"alternative_animation_media_path\": null,\r\n             
+    \"animation_media_mime_type\": \"\",\r\n              \"collectibles_user\":
+    {\r\n                \"fullName\": \"null null\",\r\n                \"username\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"profile_photo_path\":
+    null,\r\n                \"cover_photo_path\": null,\r\n                \"user_first_name\":
+    null,\r\n                \"user_last_name\": null\r\n              },\r\n             
+    \"collectible_saleinfo\": [\r\n                \r\n              ],\r\n             
+    \"collectible_collection\": {\r\n                \"tokenName\": \"Unique Dev\",\r\n               
+    \"tokenType\": \"erc721\",\r\n                \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n               
+    \"tokenLogo\": \"QmQxTW2N5YSPSaA4gmD5ZjTyB7CCYAG51ooAtn5cCzNEG7\",\r\n               
+    \"collectiontype\": \"system\"\r\n              }\r\n            }\r\n         
+    },\r\n          {\r\n            \"tokenId\": 591,\r\n            \"tokenAddress\":
+    \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n            \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n            \"quantity\":
+    1,\r\n            \"collectible_balance_user\": {\r\n              \"fullName\":
+    \"null null\",\r\n              \"username\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"profile_photo_path\": null,\r\n              \"cover_photo_path\": null,\r\n             
+    \"user_first_name\": null,\r\n              \"user_last_name\": null\r\n           
+    },\r\n            \"collectible_balance_of_collectible\": {\r\n             
+    \"collectible_category\": \"Art\",\r\n              \"collectible_image_mime_type\":
+    \"image/jpeg\",\r\n              \"collectible_name\": \"Checker\",\r\n             
+    \"collectible_type\": \"erc721\",\r\n              \"collectible_uuid\": \"5e0397bb-9e72-49e8-9a35-b8db7ac46cce\",\r\n             
+    \"cost\": 0,\r\n              \"createdAt\": \"2021-09-04T12:20:54.000Z\",\r\n             
+    \"ipfs_media_path\": \"https://ipfs.infura.io/ipfs/QmVmjyft5AzPds5XkTxCcuCoSDJuxwNrYHrAgTbPG8qo8z\",\r\n             
+    \"alternative_media_path\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/34f2b0dfaca049feeb743e0ff0167abd\",\r\n             
+    \"alternative_media_path_medium\": \"https://uniqueone.s3.ap-southeast-1.amazonaws.com/dev/media/34f2b0dfaca049feeb743e0ff0167abd-medium\",\r\n             
+    \"lock_status\": 0,\r\n              \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n             
+    \"user_public_address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n             
+    \"tokenID\": 591,\r\n              \"noOfCopies\": 1,\r\n              \"ipfs_animation_media_path\":
+    null,\r\n              \"alternative_animation_media_path\": null,\r\n             
+    \"animation_media_mime_type\": \"\",\r\n              \"collectibles_user\":
+    {\r\n                \"fullName\": \"null null\",\r\n                \"username\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"user_public_address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\r\n                \"profile_photo_path\":
+    null,\r\n                \"cover_photo_path\": null,\r\n                \"user_first_name\":
+    null,\r\n                \"user_last_name\": null\r\n              },\r\n             
+    \"collectible_saleinfo\": [\r\n                \r\n              ],\r\n             
+    \"collectible_collection\": {\r\n                \"tokenName\": \"Unique Dev\",\r\n               
+    \"tokenType\": \"erc721\",\r\n                \"tokenAddress\": \"0x6656e037F3281b95EC0E2fBBc68F809431eeb1dA\",\r\n               
+    \"tokenLogo\": \"QmQxTW2N5YSPSaA4gmD5ZjTyB7CCYAG51ooAtn5cCzNEG7\",\r\n               
+    \"collectiontype\": \"system\"\r\n              }\r\n            }\r\n         
+    }\r\n        ]\r\n      }\r\n    ],\r\n    \"totalPages\": 1,\r\n    \"currentPage\":
+    0\r\n  }\r\n}"
+  respone:
+    status: 0
+    data:
+      totalItems: 0
+      result: []
+--- !u!1 &970542432999313868
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4330118126750656242}
+  - component: {fileID: 3180070755487768798}
+  m_Layer: 0
+  m_Name: TestJson
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4330118126750656242
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 970542432999313868}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7915385762552478162}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3180070755487768798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 970542432999313868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f272f92b9a0742a40a7c7bb6d458e43d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  json: "{\n  \"status\": 200,\n  \"message\": \"success get unclaimed reward\",\n 
+    \"result\": [\n    {\n      \"id\": \"aoAuRFCj4wRoROidXriiUTQQSWzIYWkv\",\n     
+    \"address\": \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\n      \"data\":
+    {\n        \"id\": \"aoAuRFCj4wRoROidXriiUTQQSWzIYWkv\",\n        \"name\": \"IG-88
+    Purple\",\n        \"stats\": {\n          \"hp\": 152,\n          \"speed\":
+    64,\n          \"attack\": 45,\n          \"defense\": 15\n        },\n       
+    \"story\": \"Botswana\",\n        \"set_leg\": [\n          \"02-wizard\",\n         
+    \"10-cyborg\",\n          \"11-clown suit\",\n          \"15-viking\",\n         
+    \"07-assassin\"\n        ],\n        \"set_body\": [\n          \"25-egyption
+    warrior\",\n          \"18-monk\",\n          \"10-cyborg\",\n          \"09-gladiator\",\n         
+    \"19-vampire\"\n        ],\n        \"set_heads\": [\n          \"16-shogun\",\n         
+    \"19-vampire\",\n          \"06-karate\",\n          \"02-wizard\",\n         
+    \"05-ninja\"\n        ]\n      },\n      \"claimed\": false,\n      \"created_at\":
+    \"2021-09-02T07:09:59.000Z\",\n      \"updated_at\": \"2021-09-02T07:09:59.000Z\"\n   
+    },\n    {\n      \"id\": \"AZeMSVe2yH5lCWVuHvqwgbKywmBM3s1I\",\n      \"address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\n      \"data\": {\n        \"id\":
+    \"AZeMSVe2yH5lCWVuHvqwgbKywmBM3s1I\",\n        \"name\": \"Luminara Unduli Green\",\n       
+    \"stats\": {\n          \"hp\": 194,\n          \"speed\": 66,\n          \"attack\":
+    47,\n          \"defense\": 19\n        },\n        \"story\": \"St. Pierre &
+    Miquelon\",\n        \"set_leg\": [\n          \"19-vampire\"\n        ],\n       
+    \"set_body\": [\n          \"03-cowboy\"\n        ],\n        \"set_heads\":
+    [\n          \"12-working man\"\n        ]\n      },\n      \"claimed\": false,\n     
+    \"created_at\": \"2021-09-02T07:09:59.000Z\",\n      \"updated_at\": \"2021-09-02T07:09:59.000Z\"\n   
+    },\n    {\n      \"id\": \"JQs9RylXgijO6NH2bcuXsku3tSnqTWq5\",\n      \"address\":
+    \"0x8De871Da522Ae2cD822bc375f933272C1056486a\",\n      \"data\": {\n        \"id\":
+    \"JQs9RylXgijO6NH2bcuXsku3tSnqTWq5\",\n        \"name\": \"Plo Koon Rose\",\n       
+    \"stats\": {\n          \"hp\": 179,\n          \"speed\": 40,\n          \"attack\":
+    40,\n          \"defense\": 28\n        },\n        \"story\": \"Sint Maarten\",\n       
+    \"set_leg\": [\n          \"08-shaman\"\n        ],\n        \"set_body\": [\n         
+    \"13-alien suit\"\n        ],\n        \"set_heads\": [\n          \"09-gladiator\"\n       
+    ]\n      },\n      \"claimed\": false,\n      \"created_at\": \"2021-09-02T07:09:59.000Z\",\n     
+    \"updated_at\": \"2021-09-02T07:09:59.000Z\"\n    }\n  ]\n}"
+--- !u!1 &5303980460297439892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4061445136060473437}
+  - component: {fileID: 8270827258017713026}
+  m_Layer: 0
+  m_Name: TestUploadIPFS
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4061445136060473437
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5303980460297439892}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7915385762552478162}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8270827258017713026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5303980460297439892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2016ac25ce8c8c48a456bc15c71eaa2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _blockChainApi: {fileID: 0}
+--- !u!1 &6818645637889790444
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6123678110245401430}
+  - component: {fileID: 8972365006804612446}
+  m_Layer: 0
+  m_Name: TestInitCharacters
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6123678110245401430
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6818645637889790444}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7915385762552478162}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8972365006804612446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6818645637889790444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 676bccf9e0dba864aaaed32902656b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _blockChainAPI
+      Entry: 6
+      Data: 
+    - Name: webAPI
+      Entry: 6
+      Data: 
+  server: {fileID: 0}
+--- !u!1 &7059103607147877719
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5330674668343626136}
+  - component: {fileID: 7378614630035183678}
+  m_Layer: 0
+  m_Name: TestApp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5330674668343626136
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7059103607147877719}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7915385762552478162}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7378614630035183678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7059103607147877719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25afdc263e2163f4398f3623d08b6cdd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: blockChainAPI
+      Entry: 6
+      Data: 
+    - Name: webAPI
+      Entry: 6
+      Data: 
+  wallet: 0x8De871Da522Ae2cD822bc375f933272C1056486a
+  server: {fileID: 0}
+  _battleSC: {fileID: 11400000, guid: 4d37487769ae4c74b98d07a0517f569c, type: 2}
+  _history: []
+  _simulation:
+    char1ID: 
+    char2ID: 
+    winID: 
+    loseID: 
+    steps: []
+--- !u!1 &7915385762552478160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7915385762552478162}
+  m_Layer: 0
+  m_Name: Test
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &7915385762552478162
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7915385762552478160}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5330674668343626136}
+  - {fileID: 6123678110245401430}
+  - {fileID: 7218306679911547233}
+  - {fileID: 4061445136060473437}
+  - {fileID: 4330118126750656242}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

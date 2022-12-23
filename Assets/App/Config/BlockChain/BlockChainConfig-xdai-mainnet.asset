@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b3c15ab8aa145948a29abd7b6d3e5a0, type: 3}
+  m_Name: BlockChainConfig-xdai-mainnet
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  chain: xdai
+  network: mainnet
+  _uniqSC: {fileID: 11400000, guid: 15b9c3ec3ef44ee4a9e9ff771c4e595d, type: 2}
+  _battleSC: {fileID: 11400000, guid: b21246cc9396e85448ef0a3a7a75f5ee, type: 2}

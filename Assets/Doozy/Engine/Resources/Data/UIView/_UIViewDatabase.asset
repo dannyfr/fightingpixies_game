@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 889794c411054f7ca8e6fbdc6728c846, type: 3}
+  m_Name: _UIViewDatabase
+  m_EditorClassIdentifier: 
+  DatabaseType: 2
+  CategoryNames:
+  - Custom
+  - General
+  - app
+  Categories:
+  - {fileID: 11400000, guid: 5c2b64b8b4a8bfa449999f879ef9a52e, type: 2}
+  - {fileID: 11400000, guid: 86839f3f38c27d1499b561b88cd553b3, type: 2}

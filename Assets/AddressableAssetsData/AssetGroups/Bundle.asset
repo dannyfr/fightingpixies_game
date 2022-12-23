@@ -1,0 +1,3343 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Bundle
+  m_EditorClassIdentifier: 
+  m_GroupName: Bundle
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e0241cd555a7e5141bd5a4944d56bd51
+  m_SerializeEntries:
+  - m_GUID: c913744277be36d49b116944f72cf7a4
+    m_Address: 00-base-human-arm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c913744277be36d49b116944f72cf7a4, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c913744277be36d49b116944f72cf7a4, type: 2}
+  - m_GUID: 1bc6548841d134c44aad72f75f9b5bca
+    m_Address: 11-base-clown-arm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 1bc6548841d134c44aad72f75f9b5bca, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 1bc6548841d134c44aad72f75f9b5bca, type: 2}
+  - m_GUID: 63d539c15bebf7a488d5e91697dc9dd0
+    m_Address: 14-base-alien-arm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 63d539c15bebf7a488d5e91697dc9dd0, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 63d539c15bebf7a488d5e91697dc9dd0, type: 2}
+  - m_GUID: b13585300c39ef648a3af1651b9dac24
+    m_Address: 19-base-vampire-arm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: b13585300c39ef648a3af1651b9dac24, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: b13585300c39ef648a3af1651b9dac24, type: 2}
+  - m_GUID: 0e08abc6241af884ba6de50227bf545f
+    m_Address: 20-base-zombie-arm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 0e08abc6241af884ba6de50227bf545f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 0e08abc6241af884ba6de50227bf545f, type: 2}
+  - m_GUID: f00cafefc9e2db54eaf399c9b437b6f8
+    m_Address: 21-base-golem-arm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f00cafefc9e2db54eaf399c9b437b6f8, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f00cafefc9e2db54eaf399c9b437b6f8, type: 2}
+  - m_GUID: 74a471ddb8d52e642831b9afa978e23e
+    m_Address: 22-base-devil-arm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 74a471ddb8d52e642831b9afa978e23e, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 74a471ddb8d52e642831b9afa978e23e, type: 2}
+  - m_GUID: 15a684e1d6df42946ae2e03dd319d571
+    m_Address: 23-base-grim-reaper-arm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 15a684e1d6df42946ae2e03dd319d571, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 15a684e1d6df42946ae2e03dd319d571, type: 2}
+  - m_GUID: 22ec5899be251d848b7e5e7c0eafcce0
+    m_Address: 24-base-jack-o-lantern-arm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 22ec5899be251d848b7e5e7c0eafcce0, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 22ec5899be251d848b7e5e7c0eafcce0, type: 2}
+  - m_GUID: c3c609fed223bd64e9f6a634dec44a56
+    m_Address: 00-base-human-body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c3c609fed223bd64e9f6a634dec44a56, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c3c609fed223bd64e9f6a634dec44a56, type: 2}
+  - m_GUID: c5df5f675635d8b4e8ed72cc10e215c1
+    m_Address: 11-base-clown-body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c5df5f675635d8b4e8ed72cc10e215c1, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c5df5f675635d8b4e8ed72cc10e215c1, type: 2}
+  - m_GUID: 43322662a0cd8a94c9ab76eee3328a82
+    m_Address: 14-base-alien-body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 43322662a0cd8a94c9ab76eee3328a82, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 43322662a0cd8a94c9ab76eee3328a82, type: 2}
+  - m_GUID: 99946c221c26448458cf993cf50b3669
+    m_Address: 19-base-vampire-body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 99946c221c26448458cf993cf50b3669, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 99946c221c26448458cf993cf50b3669, type: 2}
+  - m_GUID: 323270329b28ee048b5bb9975dcfe13a
+    m_Address: 20-base-zombie-body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 323270329b28ee048b5bb9975dcfe13a, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 323270329b28ee048b5bb9975dcfe13a, type: 2}
+  - m_GUID: f8ff191634a7c1b46b217b7743337971
+    m_Address: 21-base-golem-body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f8ff191634a7c1b46b217b7743337971, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f8ff191634a7c1b46b217b7743337971, type: 2}
+  - m_GUID: 88cf6b9a80b9fbd438891c6628b604fd
+    m_Address: 22-base-devil-body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 88cf6b9a80b9fbd438891c6628b604fd, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 88cf6b9a80b9fbd438891c6628b604fd, type: 2}
+  - m_GUID: f352485dd895bb148973b576287e8f8a
+    m_Address: 23-base-grim-reaper-body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f352485dd895bb148973b576287e8f8a, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f352485dd895bb148973b576287e8f8a, type: 2}
+  - m_GUID: 8b3f799a8df4ebb4eb60dcd7fb6fcd65
+    m_Address: 24-base-jack-o-lantern-body
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 8b3f799a8df4ebb4eb60dcd7fb6fcd65, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 8b3f799a8df4ebb4eb60dcd7fb6fcd65, type: 2}
+  - m_GUID: 7eb9950dec05ca74386ef893ecac3f51
+    m_Address: 00-base-human-head
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 7eb9950dec05ca74386ef893ecac3f51, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 7eb9950dec05ca74386ef893ecac3f51, type: 2}
+  - m_GUID: a92795981a2fc5d41a5a357f541d3707
+    m_Address: 11-base-clown-head
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: a92795981a2fc5d41a5a357f541d3707, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: a92795981a2fc5d41a5a357f541d3707, type: 2}
+  - m_GUID: 8e0d589692e36484cb76be074ebbc6b2
+    m_Address: 14-base-alien-head
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 8e0d589692e36484cb76be074ebbc6b2, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 8e0d589692e36484cb76be074ebbc6b2, type: 2}
+  - m_GUID: 8f684f04140ba8648abdcbcf816c1633
+    m_Address: 19-base-vampire-head
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 8f684f04140ba8648abdcbcf816c1633, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 8f684f04140ba8648abdcbcf816c1633, type: 2}
+  - m_GUID: 2e2684c4b5092934ba7ac32c93753cf5
+    m_Address: 20-base-zombie-head
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 2e2684c4b5092934ba7ac32c93753cf5, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 2e2684c4b5092934ba7ac32c93753cf5, type: 2}
+  - m_GUID: 3dbeba86f458d1b45acaa97814fbe113
+    m_Address: 21-base-golem-head
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 3dbeba86f458d1b45acaa97814fbe113, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 3dbeba86f458d1b45acaa97814fbe113, type: 2}
+  - m_GUID: 28d55b5e4e307da49ad37137ec6f72c5
+    m_Address: 22-base-devil-head
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 28d55b5e4e307da49ad37137ec6f72c5, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 28d55b5e4e307da49ad37137ec6f72c5, type: 2}
+  - m_GUID: 699d1b7ce7531bf4aae515d6663d02f8
+    m_Address: 23-base-grim-reaper-head
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 699d1b7ce7531bf4aae515d6663d02f8, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 699d1b7ce7531bf4aae515d6663d02f8, type: 2}
+  - m_GUID: f4824a3fe7925fe49995f50a3ad61521
+    m_Address: 24-base-jack-o-lantern-head
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f4824a3fe7925fe49995f50a3ad61521, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f4824a3fe7925fe49995f50a3ad61521, type: 2}
+  - m_GUID: 005e72a15fe20e24eb37f7bd27feb377
+    m_Address: 00-base-human-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 005e72a15fe20e24eb37f7bd27feb377, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 005e72a15fe20e24eb37f7bd27feb377, type: 2}
+  - m_GUID: 684c58b11816ee34891f622da053b8a9
+    m_Address: 11-base-clown-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 684c58b11816ee34891f622da053b8a9, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 684c58b11816ee34891f622da053b8a9, type: 2}
+  - m_GUID: e16e6b882207a6348893513ec864d5e7
+    m_Address: 14-base-alien-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e16e6b882207a6348893513ec864d5e7, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e16e6b882207a6348893513ec864d5e7, type: 2}
+  - m_GUID: 86328fa65a336514a81fc5b05b729f34
+    m_Address: 19-base-vampire-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 86328fa65a336514a81fc5b05b729f34, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 86328fa65a336514a81fc5b05b729f34, type: 2}
+  - m_GUID: 0c402c85969a28d4098887eb59bc6493
+    m_Address: 20-base-zombie-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 0c402c85969a28d4098887eb59bc6493, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 0c402c85969a28d4098887eb59bc6493, type: 2}
+  - m_GUID: 031495f123a4a524fb0423b4e1bd6ddf
+    m_Address: 21-base-golem-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 031495f123a4a524fb0423b4e1bd6ddf, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 031495f123a4a524fb0423b4e1bd6ddf, type: 2}
+  - m_GUID: e257e9616e2bbec45b987b86268e9e54
+    m_Address: 22-base-devil-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e257e9616e2bbec45b987b86268e9e54, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e257e9616e2bbec45b987b86268e9e54, type: 2}
+  - m_GUID: a62570a5f9573ee4098b5c72097395e4
+    m_Address: 23-base-grim-reaper-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: a62570a5f9573ee4098b5c72097395e4, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: a62570a5f9573ee4098b5c72097395e4, type: 2}
+  - m_GUID: 27d6214a0284e18458b8b7270a649ed9
+    m_Address: 24-base-jack-o-lantern-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 27d6214a0284e18458b8b7270a649ed9, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 27d6214a0284e18458b8b7270a649ed9, type: 2}
+  - m_GUID: 894f55c7eb46e554086605da03412dbe
+    m_Address: 01-knight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 894f55c7eb46e554086605da03412dbe, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 894f55c7eb46e554086605da03412dbe, type: 2}
+  - m_GUID: 7bebcb2e970f7794b96fe9498ce362a5
+    m_Address: 02-wizard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 7bebcb2e970f7794b96fe9498ce362a5, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 7bebcb2e970f7794b96fe9498ce362a5, type: 2}
+  - m_GUID: 18669202cf9afcc409bffec34d412e1f
+    m_Address: 03-cowboy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 18669202cf9afcc409bffec34d412e1f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 18669202cf9afcc409bffec34d412e1f, type: 2}
+  - m_GUID: cb49c721a630c7a4286c28a7c793683b
+    m_Address: 04-pirate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: cb49c721a630c7a4286c28a7c793683b, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: cb49c721a630c7a4286c28a7c793683b, type: 2}
+  - m_GUID: 01dbe913e946e304cbaf2e44d84cb3d2
+    m_Address: 05-ninja
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 01dbe913e946e304cbaf2e44d84cb3d2, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 01dbe913e946e304cbaf2e44d84cb3d2, type: 2}
+  - m_GUID: aa0044b05c182c841acd2be345c91c20
+    m_Address: 06-karate
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: aa0044b05c182c841acd2be345c91c20, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: aa0044b05c182c841acd2be345c91c20, type: 2}
+  - m_GUID: 85c2ae91d560085458fc7a2a74827de5
+    m_Address: 07-assassin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 85c2ae91d560085458fc7a2a74827de5, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 85c2ae91d560085458fc7a2a74827de5, type: 2}
+  - m_GUID: 3e2e1b6ea70446d459b4789fd250c3ca
+    m_Address: 08-shaman
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 3e2e1b6ea70446d459b4789fd250c3ca, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 3e2e1b6ea70446d459b4789fd250c3ca, type: 2}
+  - m_GUID: 96186061bf9c0604190ba8b49b5e4d5c
+    m_Address: 09-gladiator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 96186061bf9c0604190ba8b49b5e4d5c, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 96186061bf9c0604190ba8b49b5e4d5c, type: 2}
+  - m_GUID: 9ed3d9af3dc7cb642aa0431dab6db133
+    m_Address: 10-cyborg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 9ed3d9af3dc7cb642aa0431dab6db133, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 9ed3d9af3dc7cb642aa0431dab6db133, type: 2}
+  - m_GUID: c12c3f316d0182b47b0272bcf8c2c733
+    m_Address: 11-clown suit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c12c3f316d0182b47b0272bcf8c2c733, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c12c3f316d0182b47b0272bcf8c2c733, type: 2}
+  - m_GUID: 056daa36d5f81b246935d65e5caab470
+    m_Address: 12-working man
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 056daa36d5f81b246935d65e5caab470, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 056daa36d5f81b246935d65e5caab470, type: 2}
+  - m_GUID: cc927d035c3cf53438a3f81f26f931c9
+    m_Address: 13-alien suit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: cc927d035c3cf53438a3f81f26f931c9, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: cc927d035c3cf53438a3f81f26f931c9, type: 2}
+  - m_GUID: 041a6b88ddeba024980894978bd63a00
+    m_Address: 14-roman soldier
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 041a6b88ddeba024980894978bd63a00, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 041a6b88ddeba024980894978bd63a00, type: 2}
+  - m_GUID: 470625aed5ee1a243ad483d971e6ce97
+    m_Address: 15-viking
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 470625aed5ee1a243ad483d971e6ce97, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 470625aed5ee1a243ad483d971e6ce97, type: 2}
+  - m_GUID: d1b3b574161083145b64d303c5d12d66
+    m_Address: 16-shogun
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: d1b3b574161083145b64d303c5d12d66, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: d1b3b574161083145b64d303c5d12d66, type: 2}
+  - m_GUID: 7dbd4f96403f1164dafc95cb7974d301
+    m_Address: 17-saracen
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 7dbd4f96403f1164dafc95cb7974d301, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 7dbd4f96403f1164dafc95cb7974d301, type: 2}
+  - m_GUID: 01dad935099734947bca4573f2aab979
+    m_Address: 18-monk
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 01dad935099734947bca4573f2aab979, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 01dad935099734947bca4573f2aab979, type: 2}
+  - m_GUID: 3b0544bd28bd6fd4b801c56df4390d97
+    m_Address: 19-vampire
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 3b0544bd28bd6fd4b801c56df4390d97, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 3b0544bd28bd6fd4b801c56df4390d97, type: 2}
+  - m_GUID: fa176580332ab5c4da6418c738af09c4
+    m_Address: 20-zombie
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: fa176580332ab5c4da6418c738af09c4, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: fa176580332ab5c4da6418c738af09c4, type: 2}
+  - m_GUID: 268cea5e438a0ee43a170762c5700838
+    m_Address: 21-golem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 268cea5e438a0ee43a170762c5700838, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 268cea5e438a0ee43a170762c5700838, type: 2}
+  - m_GUID: be4c8fd461e24af44bc3d62b34ca6447
+    m_Address: 22-devil
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: be4c8fd461e24af44bc3d62b34ca6447, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: be4c8fd461e24af44bc3d62b34ca6447, type: 2}
+  - m_GUID: 5213970bfb2b62b44ab637b126167fb2
+    m_Address: 23-grim reaper
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 5213970bfb2b62b44ab637b126167fb2, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 5213970bfb2b62b44ab637b126167fb2, type: 2}
+  - m_GUID: aa3589fbc0a8079498b5a207472ffe28
+    m_Address: 24-jank o lantern
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: aa3589fbc0a8079498b5a207472ffe28, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: aa3589fbc0a8079498b5a207472ffe28, type: 2}
+  - m_GUID: 4396e11a65534ad48975ba6a8a9827f7
+    m_Address: 25-egyption warrior
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 4396e11a65534ad48975ba6a8a9827f7, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 4396e11a65534ad48975ba6a8a9827f7, type: 2}
+  - m_GUID: b9a7847ecadb01c47b22bf95f6280100
+    m_Address: 01-HORNED_KNIGHT_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: b9a7847ecadb01c47b22bf95f6280100, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: b9a7847ecadb01c47b22bf95f6280100, type: 2}
+  - m_GUID: 96897e654dfc8a944b69699dae42a7c2
+    m_Address: 02-WIZARD_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 96897e654dfc8a944b69699dae42a7c2, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 96897e654dfc8a944b69699dae42a7c2, type: 2}
+  - m_GUID: 21de59b61d82a644f9718d044fa90098
+    m_Address: 03-PIRATE_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 21de59b61d82a644f9718d044fa90098, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 21de59b61d82a644f9718d044fa90098, type: 2}
+  - m_GUID: 3ce5cd17dcb069e4cb1b0d78fa87ee31
+    m_Address: 04-NINJA_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 3ce5cd17dcb069e4cb1b0d78fa87ee31, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 3ce5cd17dcb069e4cb1b0d78fa87ee31, type: 2}
+  - m_GUID: 8bf578106838a344ba6ebcf3e9859529
+    m_Address: 05-COWBOY_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 8bf578106838a344ba6ebcf3e9859529, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 8bf578106838a344ba6ebcf3e9859529, type: 2}
+  - m_GUID: 01e9ef786446cc54ea7b2e30f5ed75aa
+    m_Address: 06-KARATE_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 01e9ef786446cc54ea7b2e30f5ed75aa, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 01e9ef786446cc54ea7b2e30f5ed75aa, type: 2}
+  - m_GUID: 2084bd3db5e60cc41bfcda1cb0fa81ca
+    m_Address: 07-ASSASSIN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 2084bd3db5e60cc41bfcda1cb0fa81ca, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 2084bd3db5e60cc41bfcda1cb0fa81ca, type: 2}
+  - m_GUID: 47d2688d4139aab48aec4079df46d86c
+    m_Address: 08-SHAMAN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 47d2688d4139aab48aec4079df46d86c, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 47d2688d4139aab48aec4079df46d86c, type: 2}
+  - m_GUID: c12db2553c1c5634c88de97897dc1677
+    m_Address: 09-GLADIATOR_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c12db2553c1c5634c88de97897dc1677, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c12db2553c1c5634c88de97897dc1677, type: 2}
+  - m_GUID: 83a3f39dc8f8de44cb2c173b5a964334
+    m_Address: 10-CYBORG_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 83a3f39dc8f8de44cb2c173b5a964334, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 83a3f39dc8f8de44cb2c173b5a964334, type: 2}
+  - m_GUID: 63e8a65abaf44bc478b3c7b905a51a3c
+    m_Address: 11-CLOWN_SUIT_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 63e8a65abaf44bc478b3c7b905a51a3c, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 63e8a65abaf44bc478b3c7b905a51a3c, type: 2}
+  - m_GUID: 321ed6e9d88e1d34695c24b3530dc042
+    m_Address: 12-ROMAN_SOLDIER_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 321ed6e9d88e1d34695c24b3530dc042, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 321ed6e9d88e1d34695c24b3530dc042, type: 2}
+  - m_GUID: 655b147e2d32cc749a3f95db844540ca
+    m_Address: 13-WORKING_MAN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 655b147e2d32cc749a3f95db844540ca, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 655b147e2d32cc749a3f95db844540ca, type: 2}
+  - m_GUID: f26ac1b4c4d0f194cb4f3c3e65fce59b
+    m_Address: 14-ALIEN_SUIT_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f26ac1b4c4d0f194cb4f3c3e65fce59b, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f26ac1b4c4d0f194cb4f3c3e65fce59b, type: 2}
+  - m_GUID: f04f21d1b2b0f164a8226f425e533947
+    m_Address: 15-VIKING_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f04f21d1b2b0f164a8226f425e533947, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f04f21d1b2b0f164a8226f425e533947, type: 2}
+  - m_GUID: 902a8af94dcdd5e42bdda17896166095
+    m_Address: 16-SHOGUN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 902a8af94dcdd5e42bdda17896166095, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 902a8af94dcdd5e42bdda17896166095, type: 2}
+  - m_GUID: 3779ffc5ebb255f48bdf2b2d279e1c89
+    m_Address: 17-SHARACEN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 3779ffc5ebb255f48bdf2b2d279e1c89, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 3779ffc5ebb255f48bdf2b2d279e1c89, type: 2}
+  - m_GUID: 202e78547d3ad3643bf9278785274ef3
+    m_Address: 18-MONK_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 202e78547d3ad3643bf9278785274ef3, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 202e78547d3ad3643bf9278785274ef3, type: 2}
+  - m_GUID: cda81c4af9ad5bb4581d6904a230a6cc
+    m_Address: 19-VAMPIRE_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: cda81c4af9ad5bb4581d6904a230a6cc, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: cda81c4af9ad5bb4581d6904a230a6cc, type: 2}
+  - m_GUID: e4230e32886b74f4ab2ed0aeef815008
+    m_Address: 20-ZOMBIE_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e4230e32886b74f4ab2ed0aeef815008, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e4230e32886b74f4ab2ed0aeef815008, type: 2}
+  - m_GUID: e0dbd7134fc273f448041eb10dd422c9
+    m_Address: 23-GRIM_REAPER_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e0dbd7134fc273f448041eb10dd422c9, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e0dbd7134fc273f448041eb10dd422c9, type: 2}
+  - m_GUID: f2b8441009051f848a3484cd1c47ed75
+    m_Address: 24-JACK_O_LANTERN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f2b8441009051f848a3484cd1c47ed75, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f2b8441009051f848a3484cd1c47ed75, type: 2}
+  - m_GUID: 54d95a303053da248bd673c02d48347c
+    m_Address: 25-EGYPTIAN_WARRIOR_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 54d95a303053da248bd673c02d48347c, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 54d95a303053da248bd673c02d48347c, type: 2}
+  - m_GUID: c497e19cdbb17404ea554a58cbac6f95
+    m_Address: 01-HORNED_KNIGHT_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c497e19cdbb17404ea554a58cbac6f95, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c497e19cdbb17404ea554a58cbac6f95, type: 2}
+  - m_GUID: 8e89faa51962b3248ace1490fdd56016
+    m_Address: 02-WIZARD_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 8e89faa51962b3248ace1490fdd56016, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 8e89faa51962b3248ace1490fdd56016, type: 2}
+  - m_GUID: 6c931ac4e1792c44fb96cefcf99e8686
+    m_Address: 03-PIRATE_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 6c931ac4e1792c44fb96cefcf99e8686, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 6c931ac4e1792c44fb96cefcf99e8686, type: 2}
+  - m_GUID: 9697c14f3d860794c91253802ecbb3a2
+    m_Address: 04-NINJA_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 9697c14f3d860794c91253802ecbb3a2, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 9697c14f3d860794c91253802ecbb3a2, type: 2}
+  - m_GUID: 7a7204661d9700c44bd956a8374a0f1e
+    m_Address: 05-COWBOY_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 7a7204661d9700c44bd956a8374a0f1e, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 7a7204661d9700c44bd956a8374a0f1e, type: 2}
+  - m_GUID: c2fbc51b62f92fe439bcc5dbddfdcc00
+    m_Address: 06-KARATE_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c2fbc51b62f92fe439bcc5dbddfdcc00, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c2fbc51b62f92fe439bcc5dbddfdcc00, type: 2}
+  - m_GUID: c1120a394d58a0949b7b2d263c69de79
+    m_Address: 07-ASSASSIN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c1120a394d58a0949b7b2d263c69de79, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c1120a394d58a0949b7b2d263c69de79, type: 2}
+  - m_GUID: 492c78a170e8c274591f375509061b83
+    m_Address: 08-SHAMAN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 492c78a170e8c274591f375509061b83, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 492c78a170e8c274591f375509061b83, type: 2}
+  - m_GUID: c81cf2a2e541b364db8fb91fe7636ffa
+    m_Address: 09-GLADIATOR_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c81cf2a2e541b364db8fb91fe7636ffa, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c81cf2a2e541b364db8fb91fe7636ffa, type: 2}
+  - m_GUID: e2d2d09dd75eaf846a83915470ef12dc
+    m_Address: 10-CYBORG_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e2d2d09dd75eaf846a83915470ef12dc, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e2d2d09dd75eaf846a83915470ef12dc, type: 2}
+  - m_GUID: e6bc20d0e48ffb04ea45716065b5d2a5
+    m_Address: 11-CLOWN_SUIT_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e6bc20d0e48ffb04ea45716065b5d2a5, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e6bc20d0e48ffb04ea45716065b5d2a5, type: 2}
+  - m_GUID: 4d036c9932ab1ba48a9bbbc84eb3f1e7
+    m_Address: 12-ROMAN_SOLDIER_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 4d036c9932ab1ba48a9bbbc84eb3f1e7, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 4d036c9932ab1ba48a9bbbc84eb3f1e7, type: 2}
+  - m_GUID: 10c6a40268f392344b8544194b678cf5
+    m_Address: 13-WORKING_MAN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 10c6a40268f392344b8544194b678cf5, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 10c6a40268f392344b8544194b678cf5, type: 2}
+  - m_GUID: 8f12a41d44c7d5344a000e746409765b
+    m_Address: 15-VIKING_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 8f12a41d44c7d5344a000e746409765b, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 8f12a41d44c7d5344a000e746409765b, type: 2}
+  - m_GUID: 59ef43614addd2a4a9c534828ec2cb8f
+    m_Address: 16-SHOGUN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 59ef43614addd2a4a9c534828ec2cb8f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 59ef43614addd2a4a9c534828ec2cb8f, type: 2}
+  - m_GUID: 9e73da8ebabc9e84f8d8282bc0a85be3
+    m_Address: 17-SHARACEN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 9e73da8ebabc9e84f8d8282bc0a85be3, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 9e73da8ebabc9e84f8d8282bc0a85be3, type: 2}
+  - m_GUID: 4da6b44040fde3846ac7472958217bf0
+    m_Address: 18-MONK_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 4da6b44040fde3846ac7472958217bf0, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 4da6b44040fde3846ac7472958217bf0, type: 2}
+  - m_GUID: fa59325a5b194b54689486a41c36c2ff
+    m_Address: 19-VAMPIRE_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: fa59325a5b194b54689486a41c36c2ff, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: fa59325a5b194b54689486a41c36c2ff, type: 2}
+  - m_GUID: 71ca721e6eb99c442951dc3ff9966197
+    m_Address: 23-GRIM_REAPER_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 71ca721e6eb99c442951dc3ff9966197, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 71ca721e6eb99c442951dc3ff9966197, type: 2}
+  - m_GUID: 8a8951eb34363424d9a66a757471b520
+    m_Address: 25-EGYPTIAN_WARRIOR_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 8a8951eb34363424d9a66a757471b520, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 8a8951eb34363424d9a66a757471b520, type: 2}
+  - m_GUID: 46a4c60ac46517e47b6e1df7710fed8a
+    m_Address: 01-HORNED_KNIGHT_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 46a4c60ac46517e47b6e1df7710fed8a, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 46a4c60ac46517e47b6e1df7710fed8a, type: 2}
+  - m_GUID: b96fb23517a8dd242bb9dd2e300a0cc0
+    m_Address: 02-WIZARD_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: b96fb23517a8dd242bb9dd2e300a0cc0, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: b96fb23517a8dd242bb9dd2e300a0cc0, type: 2}
+  - m_GUID: b4e97ccfc9f842a4b998a290ec9e50ae
+    m_Address: 03-PIRATE_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: b4e97ccfc9f842a4b998a290ec9e50ae, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: b4e97ccfc9f842a4b998a290ec9e50ae, type: 2}
+  - m_GUID: 91c6ef9b933072743abebed6bb807f39
+    m_Address: 04-NINJA_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 91c6ef9b933072743abebed6bb807f39, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 91c6ef9b933072743abebed6bb807f39, type: 2}
+  - m_GUID: 1c4af07830de6134992b7c6f97cb3980
+    m_Address: 05-COWBOY_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 1c4af07830de6134992b7c6f97cb3980, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 1c4af07830de6134992b7c6f97cb3980, type: 2}
+  - m_GUID: 6b4012c14bab8524ba2b5640f584308b
+    m_Address: 06-KARATE_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 6b4012c14bab8524ba2b5640f584308b, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 6b4012c14bab8524ba2b5640f584308b, type: 2}
+  - m_GUID: f5e03aa18386e434e9abcbe8d979d81a
+    m_Address: 07-ASSASSIN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f5e03aa18386e434e9abcbe8d979d81a, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f5e03aa18386e434e9abcbe8d979d81a, type: 2}
+  - m_GUID: 2d895c8629ace2948a1ddee8d36d547f
+    m_Address: 08-SHAMAN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 2d895c8629ace2948a1ddee8d36d547f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 2d895c8629ace2948a1ddee8d36d547f, type: 2}
+  - m_GUID: be9d1ea9023b4b141bc2ca5c98726efa
+    m_Address: 09-GLADIATOR_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: be9d1ea9023b4b141bc2ca5c98726efa, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: be9d1ea9023b4b141bc2ca5c98726efa, type: 2}
+  - m_GUID: e7afc406af3eba8469b342d6adaa577a
+    m_Address: 10-CYBORG_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e7afc406af3eba8469b342d6adaa577a, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e7afc406af3eba8469b342d6adaa577a, type: 2}
+  - m_GUID: 6b859fd07d69c8c439c094d8d99084da
+    m_Address: 11-CLOWN_SUIT_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 6b859fd07d69c8c439c094d8d99084da, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 6b859fd07d69c8c439c094d8d99084da, type: 2}
+  - m_GUID: 1a047d9a89bc744428582fafa64e6884
+    m_Address: 12-ROMAN_SOLDIER_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 1a047d9a89bc744428582fafa64e6884, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 1a047d9a89bc744428582fafa64e6884, type: 2}
+  - m_GUID: 87d5a4b58b23390408bafc5cebba45b8
+    m_Address: 13-WORKING_MAN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 87d5a4b58b23390408bafc5cebba45b8, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 87d5a4b58b23390408bafc5cebba45b8, type: 2}
+  - m_GUID: cbf52209ebba0a64284b8ab56aabc540
+    m_Address: 14-ALIEN_SUIT_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: cbf52209ebba0a64284b8ab56aabc540, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: cbf52209ebba0a64284b8ab56aabc540, type: 2}
+  - m_GUID: 42720e7923bbade4cbc2d13049e8961f
+    m_Address: 15-VIKING_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 42720e7923bbade4cbc2d13049e8961f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 42720e7923bbade4cbc2d13049e8961f, type: 2}
+  - m_GUID: 03113281138c22449b3ec5189bf9da1b
+    m_Address: 16-SHOGUN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 03113281138c22449b3ec5189bf9da1b, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 03113281138c22449b3ec5189bf9da1b, type: 2}
+  - m_GUID: 5a8ca537eaf56354c881ebde0ae6d72f
+    m_Address: 17-SHARACEN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 5a8ca537eaf56354c881ebde0ae6d72f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 5a8ca537eaf56354c881ebde0ae6d72f, type: 2}
+  - m_GUID: e9999252c2018514aa7dfee23d6c4131
+    m_Address: 18-MONK_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e9999252c2018514aa7dfee23d6c4131, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e9999252c2018514aa7dfee23d6c4131, type: 2}
+  - m_GUID: 9d0318db9f5755143b6c874e85f27371
+    m_Address: 19-VAMPIRE_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 9d0318db9f5755143b6c874e85f27371, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 9d0318db9f5755143b6c874e85f27371, type: 2}
+  - m_GUID: 55ce9452092cb974f87393801d9ea3dd
+    m_Address: 20-ZOMBIE_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 55ce9452092cb974f87393801d9ea3dd, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 55ce9452092cb974f87393801d9ea3dd, type: 2}
+  - m_GUID: 0012c77123837ea4eb4f38d2e4e74b2c
+    m_Address: 23-GRIM_REAPER_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 0012c77123837ea4eb4f38d2e4e74b2c, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 0012c77123837ea4eb4f38d2e4e74b2c, type: 2}
+  - m_GUID: c537bfb1b3d383d47b12527ca752f227
+    m_Address: 24-JACK_O_LANTERN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c537bfb1b3d383d47b12527ca752f227, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c537bfb1b3d383d47b12527ca752f227, type: 2}
+  - m_GUID: 2c71098f26fa0d04ba4a2b792d171574
+    m_Address: 25-EGYPTIAN_WARRIOR_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 2c71098f26fa0d04ba4a2b792d171574, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 2c71098f26fa0d04ba4a2b792d171574, type: 2}
+  - m_GUID: e381abfb2117ccc4b87efa289ba8f9f6
+    m_Address: 01-HORNED_KNIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e381abfb2117ccc4b87efa289ba8f9f6, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e381abfb2117ccc4b87efa289ba8f9f6, type: 2}
+  - m_GUID: bc2efc44e69918e48b963ec6733af2d4
+    m_Address: 02-WIZARD_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: bc2efc44e69918e48b963ec6733af2d4, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: bc2efc44e69918e48b963ec6733af2d4, type: 2}
+  - m_GUID: 4212cac46e60af641abdc14db470c82a
+    m_Address: 03-PIRATE_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 4212cac46e60af641abdc14db470c82a, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 4212cac46e60af641abdc14db470c82a, type: 2}
+  - m_GUID: da421cf0b87f2c14f9bbf36f1b5f071b
+    m_Address: 04-NINJA_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: da421cf0b87f2c14f9bbf36f1b5f071b, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: da421cf0b87f2c14f9bbf36f1b5f071b, type: 2}
+  - m_GUID: ed026da4a5736734aa041f0f5d44e28e
+    m_Address: 05-COWBOY_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: ed026da4a5736734aa041f0f5d44e28e, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: ed026da4a5736734aa041f0f5d44e28e, type: 2}
+  - m_GUID: 780f68f825a9ed34cbc77fa99472dee2
+    m_Address: 06-KARATE_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 780f68f825a9ed34cbc77fa99472dee2, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 780f68f825a9ed34cbc77fa99472dee2, type: 2}
+  - m_GUID: befe6adc02e260746a316e111b8393e7
+    m_Address: 07-ASSASSIN_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: befe6adc02e260746a316e111b8393e7, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: befe6adc02e260746a316e111b8393e7, type: 2}
+  - m_GUID: cf9a667f348d4b2498621b1329de6279
+    m_Address: 08-SHAMAN_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: cf9a667f348d4b2498621b1329de6279, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: cf9a667f348d4b2498621b1329de6279, type: 2}
+  - m_GUID: e271403d1090bc9408fbe76a4da7d369
+    m_Address: 09-GLADIATOR_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e271403d1090bc9408fbe76a4da7d369, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e271403d1090bc9408fbe76a4da7d369, type: 2}
+  - m_GUID: 6b6360410c3b23b40a285804d580213f
+    m_Address: 10-CYBORG_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 6b6360410c3b23b40a285804d580213f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 6b6360410c3b23b40a285804d580213f, type: 2}
+  - m_GUID: 42c6f2eabd5a5204d90ddef9781096a5
+    m_Address: 11-CLOWN_SUIT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 42c6f2eabd5a5204d90ddef9781096a5, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 42c6f2eabd5a5204d90ddef9781096a5, type: 2}
+  - m_GUID: 2472533ccf92cbf46a1d53ac25a31f67
+    m_Address: 12-ROMAN_SOLDIER_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 2472533ccf92cbf46a1d53ac25a31f67, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 2472533ccf92cbf46a1d53ac25a31f67, type: 2}
+  - m_GUID: d7274f832f9d9744eb718b193121bf64
+    m_Address: 13-WORKING_MAN_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: d7274f832f9d9744eb718b193121bf64, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: d7274f832f9d9744eb718b193121bf64, type: 2}
+  - m_GUID: f389568e9a4441f458f4e692e1a56678
+    m_Address: 14-ALIEN_SUIT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f389568e9a4441f458f4e692e1a56678, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f389568e9a4441f458f4e692e1a56678, type: 2}
+  - m_GUID: ee4e2bfe50ca2dd4b94572331c13a17a
+    m_Address: 15-VIKING_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: ee4e2bfe50ca2dd4b94572331c13a17a, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: ee4e2bfe50ca2dd4b94572331c13a17a, type: 2}
+  - m_GUID: 5603953685990f647add53469bdf9f91
+    m_Address: 16-SHOGUN_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 5603953685990f647add53469bdf9f91, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 5603953685990f647add53469bdf9f91, type: 2}
+  - m_GUID: 17d019f87f513804296ea07ab1ff119d
+    m_Address: 17-SHARACEN_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 17d019f87f513804296ea07ab1ff119d, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 17d019f87f513804296ea07ab1ff119d, type: 2}
+  - m_GUID: ef8227139326ebd49a1123d06ef0a871
+    m_Address: 18-MONK_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: ef8227139326ebd49a1123d06ef0a871, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: ef8227139326ebd49a1123d06ef0a871, type: 2}
+  - m_GUID: 3a5b625b2cac4d345b671fea3df1455b
+    m_Address: 19-VAMPIRE_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 3a5b625b2cac4d345b671fea3df1455b, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 3a5b625b2cac4d345b671fea3df1455b, type: 2}
+  - m_GUID: 0cec1679a67da8246952a9332fd8a6e0
+    m_Address: 20-ZOMBIE_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 0cec1679a67da8246952a9332fd8a6e0, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 0cec1679a67da8246952a9332fd8a6e0, type: 2}
+  - m_GUID: 33c894ee994ad224380b0e07a3fad51d
+    m_Address: 23-GRIM_REAPER_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 33c894ee994ad224380b0e07a3fad51d, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 33c894ee994ad224380b0e07a3fad51d, type: 2}
+  - m_GUID: e1e513fdcf96d6a42bd7aa70009584e0
+    m_Address: 24-JACK_O_LANTERN_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: e1e513fdcf96d6a42bd7aa70009584e0, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: e1e513fdcf96d6a42bd7aa70009584e0, type: 2}
+  - m_GUID: 9b91075c4d2c39046a45dfcf2692d25b
+    m_Address: 25-EGYPTIAN_WARRIOR_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 9b91075c4d2c39046a45dfcf2692d25b, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 9b91075c4d2c39046a45dfcf2692d25b, type: 2}
+  - m_GUID: 5c0b06789c2a38a419710986667b64bc
+    m_Address: 01-HORNED_KNIGHT_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 5c0b06789c2a38a419710986667b64bc, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 5c0b06789c2a38a419710986667b64bc, type: 2}
+  - m_GUID: cdde0afd9df61e143ae8e243dbe00947
+    m_Address: 02-WIZARD_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: cdde0afd9df61e143ae8e243dbe00947, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: cdde0afd9df61e143ae8e243dbe00947, type: 2}
+  - m_GUID: f1454c3b60d946c4d99055184cef086d
+    m_Address: 03-PIRATE_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: f1454c3b60d946c4d99055184cef086d, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: f1454c3b60d946c4d99055184cef086d, type: 2}
+  - m_GUID: 1e5a8c935b7d40844b3928ca547cdfde
+    m_Address: 04-NINJA_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 1e5a8c935b7d40844b3928ca547cdfde, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 1e5a8c935b7d40844b3928ca547cdfde, type: 2}
+  - m_GUID: d6d8418e1befba74ab8476228cc31f25
+    m_Address: 05-COWBOY_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: d6d8418e1befba74ab8476228cc31f25, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: d6d8418e1befba74ab8476228cc31f25, type: 2}
+  - m_GUID: cb67b8c253171d04b84d05ea6c2740c1
+    m_Address: 06-KARATE_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: cb67b8c253171d04b84d05ea6c2740c1, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: cb67b8c253171d04b84d05ea6c2740c1, type: 2}
+  - m_GUID: 61212cf7617fbc34fb876406a77f800c
+    m_Address: 07-ASSASSIN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 61212cf7617fbc34fb876406a77f800c, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 61212cf7617fbc34fb876406a77f800c, type: 2}
+  - m_GUID: be10912795fb5c849b7a1a0be05eb130
+    m_Address: 08-SHAMAN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: be10912795fb5c849b7a1a0be05eb130, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: be10912795fb5c849b7a1a0be05eb130, type: 2}
+  - m_GUID: 16dcf98fd33522d4b83a6bd31f81c559
+    m_Address: 09-GLADIATOR_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 16dcf98fd33522d4b83a6bd31f81c559, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 16dcf98fd33522d4b83a6bd31f81c559, type: 2}
+  - m_GUID: 236cf7105e2bce0408813a1787a54231
+    m_Address: 10-CYBORG_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 236cf7105e2bce0408813a1787a54231, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 236cf7105e2bce0408813a1787a54231, type: 2}
+  - m_GUID: b2ce86a043021cf47b348fde9a123978
+    m_Address: 11-CLOWN_SUIT_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: b2ce86a043021cf47b348fde9a123978, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: b2ce86a043021cf47b348fde9a123978, type: 2}
+  - m_GUID: 5bb16ce0bd939404e90068118ee2af37
+    m_Address: 12-ROMAN_SOLDIER_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 5bb16ce0bd939404e90068118ee2af37, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 5bb16ce0bd939404e90068118ee2af37, type: 2}
+  - m_GUID: 34e2df04eac463149af232dde795a615
+    m_Address: 15-VIKING_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 34e2df04eac463149af232dde795a615, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 34e2df04eac463149af232dde795a615, type: 2}
+  - m_GUID: eec0b8a9351dcd5489292153d03c3963
+    m_Address: 16-SHOGUN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: eec0b8a9351dcd5489292153d03c3963, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: eec0b8a9351dcd5489292153d03c3963, type: 2}
+  - m_GUID: 200c046f4a1b48742b77115658e4bc52
+    m_Address: 17-SHARACEN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 200c046f4a1b48742b77115658e4bc52, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 200c046f4a1b48742b77115658e4bc52, type: 2}
+  - m_GUID: c8202ebec99050040bf1c3485d05ffd5
+    m_Address: 18-MONK_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c8202ebec99050040bf1c3485d05ffd5, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c8202ebec99050040bf1c3485d05ffd5, type: 2}
+  - m_GUID: 31607b9f7600ac848b3ae6041aefc36e
+    m_Address: 20-ZOMBIE_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 31607b9f7600ac848b3ae6041aefc36e, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 31607b9f7600ac848b3ae6041aefc36e, type: 2}
+  - m_GUID: 5c7a526b5aa441c40bd94e068ebac948
+    m_Address: 22-DEVIL_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 5c7a526b5aa441c40bd94e068ebac948, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 5c7a526b5aa441c40bd94e068ebac948, type: 2}
+  - m_GUID: 8c598f779e91ee64fb2410c8c755f339
+    m_Address: 23-GRIM_REAPER_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 8c598f779e91ee64fb2410c8c755f339, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 8c598f779e91ee64fb2410c8c755f339, type: 2}
+  - m_GUID: 258c5d2c5eafcb04395e7c152a81d807
+    m_Address: 24-JACK_O_LANTERN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 258c5d2c5eafcb04395e7c152a81d807, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 258c5d2c5eafcb04395e7c152a81d807, type: 2}
+  - m_GUID: 4559508fa0e92f646afdfa31c8420850
+    m_Address: 25-EGYPTIAN_WARRIOR_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 4559508fa0e92f646afdfa31c8420850, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 4559508fa0e92f646afdfa31c8420850, type: 2}
+  - m_GUID: 472081bce18f615429e96b88a37bfb7d
+    m_Address: 02-WIZARD_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 472081bce18f615429e96b88a37bfb7d, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 472081bce18f615429e96b88a37bfb7d, type: 2}
+  - m_GUID: 79fa480ba32c13b4895152b841757bff
+    m_Address: 03-PIRATE_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 79fa480ba32c13b4895152b841757bff, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 79fa480ba32c13b4895152b841757bff, type: 2}
+  - m_GUID: 0f70dbaa20877344a88395bd94c1b0cb
+    m_Address: 05-COWBOY_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 0f70dbaa20877344a88395bd94c1b0cb, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 0f70dbaa20877344a88395bd94c1b0cb, type: 2}
+  - m_GUID: 3ac50c8baaeb94e45a34510f9b40ed14
+    m_Address: 06-KARATE_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 3ac50c8baaeb94e45a34510f9b40ed14, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 3ac50c8baaeb94e45a34510f9b40ed14, type: 2}
+  - m_GUID: b97bf320b80d8934796c1832aa84e63f
+    m_Address: 15-VIKING_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: b97bf320b80d8934796c1832aa84e63f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: b97bf320b80d8934796c1832aa84e63f, type: 2}
+  - m_GUID: 2195983c7fb145b42b490ff58d834197
+    m_Address: 16-SHOGUN_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 2195983c7fb145b42b490ff58d834197, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 2195983c7fb145b42b490ff58d834197, type: 2}
+  - m_GUID: 9fa78841cb9c661428a20c3bfd19830f
+    m_Address: 17-SHARACEN_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 9fa78841cb9c661428a20c3bfd19830f, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 9fa78841cb9c661428a20c3bfd19830f, type: 2}
+  - m_GUID: c1677eb71b60fc54eaccecf31d79fe7d
+    m_Address: 18-MONK_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: c1677eb71b60fc54eaccecf31d79fe7d, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: c1677eb71b60fc54eaccecf31d79fe7d, type: 2}
+  - m_GUID: 7b4473bcbd6928846b408dc8ce8fe129
+    m_Address: 25-EGYPTIAN_WARRIOR_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 7b4473bcbd6928846b408dc8ce8fe129, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 7b4473bcbd6928846b408dc8ce8fe129, type: 2}
+  - m_GUID: 90b0fc56484dc424cb5b5e7f04c1a5ab
+    m_Address: Character-default
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 11400000, guid: 90b0fc56484dc424cb5b5e7f04c1a5ab, type: 2}
+    m_TargetAsset: {fileID: 11400000, guid: 90b0fc56484dc424cb5b5e7f04c1a5ab, type: 2}
+  - m_GUID: f502aecdba4114a4a9dc12f55ed3e7ac
+    m_Address: 00-PIXEL_CHAR_32px-HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5438348855710567389, guid: f502aecdba4114a4a9dc12f55ed3e7ac,
+      type: 3}
+    m_TargetAsset: {fileID: 5438348855710567389, guid: f502aecdba4114a4a9dc12f55ed3e7ac,
+      type: 3}
+  - m_GUID: 90ef526502d988349adf012833d7fb86
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5438348855710567389, guid: 90ef526502d988349adf012833d7fb86,
+      type: 3}
+    m_TargetAsset: {fileID: 5438348855710567389, guid: 90ef526502d988349adf012833d7fb86,
+      type: 3}
+  - m_GUID: 51acf16616ecf7641bd053a9520fde03
+    m_Address: 14-PIXEL_CHAR_32px-ALIEN_BODY_BASE_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7129939715026141768, guid: 51acf16616ecf7641bd053a9520fde03,
+      type: 3}
+    m_TargetAsset: {fileID: 7129939715026141768, guid: 51acf16616ecf7641bd053a9520fde03,
+      type: 3}
+  - m_GUID: d792f888eabeb5d4589fe1203d38a9c5
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_BASE_BODY-HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 283494897853634978, guid: d792f888eabeb5d4589fe1203d38a9c5,
+      type: 3}
+    m_TargetAsset: {fileID: 283494897853634978, guid: d792f888eabeb5d4589fe1203d38a9c5,
+      type: 3}
+  - m_GUID: 701488118a1fc474ebb52efc1ccd5f52
+    m_Address: 20-PIXEL_CHAR_32px-BASE_BODY-ZOMBIE_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8237621929845317197, guid: 701488118a1fc474ebb52efc1ccd5f52,
+      type: 3}
+    m_TargetAsset: {fileID: 8237621929845317197, guid: 701488118a1fc474ebb52efc1ccd5f52,
+      type: 3}
+  - m_GUID: fd32b309ef7b8b74b9a8c53697ca85af
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4164140177315957352, guid: fd32b309ef7b8b74b9a8c53697ca85af,
+      type: 3}
+    m_TargetAsset: {fileID: 4164140177315957352, guid: fd32b309ef7b8b74b9a8c53697ca85af,
+      type: 3}
+  - m_GUID: 2f01d20bdfaf1ae40902ec2c1c0fa3a6
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6106932104762616547, guid: 2f01d20bdfaf1ae40902ec2c1c0fa3a6,
+      type: 3}
+    m_TargetAsset: {fileID: 6106932104762616547, guid: 2f01d20bdfaf1ae40902ec2c1c0fa3a6,
+      type: 3}
+  - m_GUID: c58e44f3bd7eb364ab71668ab9c493d0
+    m_Address: 23-PIXEL_CHAR_32px-BODY_BASE-GRIM_REAPER_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 844533021546793964, guid: c58e44f3bd7eb364ab71668ab9c493d0,
+      type: 3}
+    m_TargetAsset: {fileID: 844533021546793964, guid: c58e44f3bd7eb364ab71668ab9c493d0,
+      type: 3}
+  - m_GUID: 30b3bc22f77e91f48be62aa830c02cac
+    m_Address: 24-PIXEL_CHAR_32px-BASE_BODY-JACK_O_LANTERN_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9059071396803457708, guid: 30b3bc22f77e91f48be62aa830c02cac,
+      type: 3}
+    m_TargetAsset: {fileID: 9059071396803457708, guid: 30b3bc22f77e91f48be62aa830c02cac,
+      type: 3}
+  - m_GUID: 3b5fedbc53c8caf4b9dc924776217c19
+    m_Address: 00-PIXEL_CHAR_32px-MALE_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6392526741494898161, guid: 3b5fedbc53c8caf4b9dc924776217c19,
+      type: 3}
+    m_TargetAsset: {fileID: 6392526741494898161, guid: 3b5fedbc53c8caf4b9dc924776217c19,
+      type: 3}
+  - m_GUID: 774ecf98d3f4ece4284fd9e45a4f00b7
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6392526741494898161, guid: 774ecf98d3f4ece4284fd9e45a4f00b7,
+      type: 3}
+    m_TargetAsset: {fileID: 6392526741494898161, guid: 774ecf98d3f4ece4284fd9e45a4f00b7,
+      type: 3}
+  - m_GUID: 554869b6c6382a14294934b9305fdd86
+    m_Address: 14-PIXEL_CHAR_32px-ALIEN_BODY_BASE_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1046342960694136008, guid: 554869b6c6382a14294934b9305fdd86,
+      type: 3}
+    m_TargetAsset: {fileID: 1046342960694136008, guid: 554869b6c6382a14294934b9305fdd86,
+      type: 3}
+  - m_GUID: 6106abdc8cce98f4e8e7e9b662f89d12
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_BASE_BODY-TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3612369707704678013, guid: 6106abdc8cce98f4e8e7e9b662f89d12,
+      type: 3}
+    m_TargetAsset: {fileID: 3612369707704678013, guid: 6106abdc8cce98f4e8e7e9b662f89d12,
+      type: 3}
+  - m_GUID: 0e7a5dca7c6c19a48aac0d6939c93d45
+    m_Address: 20-PIXEL_CHAR_32px-BASE_BODY-ZOMBIE_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1780852072655004727, guid: 0e7a5dca7c6c19a48aac0d6939c93d45,
+      type: 3}
+    m_TargetAsset: {fileID: 1780852072655004727, guid: 0e7a5dca7c6c19a48aac0d6939c93d45,
+      type: 3}
+  - m_GUID: a118fe5d76dc2254eb5e393c424c4dab
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3376850917747458211, guid: a118fe5d76dc2254eb5e393c424c4dab,
+      type: 3}
+    m_TargetAsset: {fileID: 3376850917747458211, guid: a118fe5d76dc2254eb5e393c424c4dab,
+      type: 3}
+  - m_GUID: 7359b76469bef80488e36d08dc88e8da
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2620631548716510993, guid: 7359b76469bef80488e36d08dc88e8da,
+      type: 3}
+    m_TargetAsset: {fileID: 2620631548716510993, guid: 7359b76469bef80488e36d08dc88e8da,
+      type: 3}
+  - m_GUID: c3d426f1e9375b84fbbb8cc4e2352108
+    m_Address: 23-PIXEL_CHAR_32px-BODY_BASE-GRIM_REAPER_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2753864913416316922, guid: c3d426f1e9375b84fbbb8cc4e2352108,
+      type: 3}
+    m_TargetAsset: {fileID: 2753864913416316922, guid: c3d426f1e9375b84fbbb8cc4e2352108,
+      type: 3}
+  - m_GUID: 4dd2d8e394aa8a54d8880c449dc265e2
+    m_Address: 24-PIXEL_CHAR_32px-BASE_BODY-JACK_O_LANTERN_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2272980319972577872, guid: 4dd2d8e394aa8a54d8880c449dc265e2,
+      type: 3}
+    m_TargetAsset: {fileID: 2272980319972577872, guid: 4dd2d8e394aa8a54d8880c449dc265e2,
+      type: 3}
+  - m_GUID: 12a8014a90b2c6a43a9a5ecccf332bde
+    m_Address: 00-PIXEL_CHAR_32px-RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7982334372753165619, guid: 12a8014a90b2c6a43a9a5ecccf332bde,
+      type: 3}
+    m_TargetAsset: {fileID: 7982334372753165619, guid: 12a8014a90b2c6a43a9a5ecccf332bde,
+      type: 3}
+  - m_GUID: 30593bb930d8c2b4cbd19e5e7f2c9348
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7982334372753165619, guid: 30593bb930d8c2b4cbd19e5e7f2c9348,
+      type: 3}
+    m_TargetAsset: {fileID: 7982334372753165619, guid: 30593bb930d8c2b4cbd19e5e7f2c9348,
+      type: 3}
+  - m_GUID: 9bba8d41ef8137d4783bde66d12187ef
+    m_Address: 14-PIXEL_CHAR_32px-ALIEN_BODY_BASE_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7539228971422661760, guid: 9bba8d41ef8137d4783bde66d12187ef,
+      type: 3}
+    m_TargetAsset: {fileID: 7539228971422661760, guid: 9bba8d41ef8137d4783bde66d12187ef,
+      type: 3}
+  - m_GUID: ae28f0d954ac29c489fc35d5dc46ebed
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_BASE_BODY-RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5186572956849889788, guid: ae28f0d954ac29c489fc35d5dc46ebed,
+      type: 3}
+    m_TargetAsset: {fileID: 5186572956849889788, guid: ae28f0d954ac29c489fc35d5dc46ebed,
+      type: 3}
+  - m_GUID: 6de7392b69af6f94cb18c2d94d857ffb
+    m_Address: 20-PIXEL_CHAR_32px-BASE_BODY-ZOMBIE_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4148686333994312416, guid: 6de7392b69af6f94cb18c2d94d857ffb,
+      type: 3}
+    m_TargetAsset: {fileID: 4148686333994312416, guid: 6de7392b69af6f94cb18c2d94d857ffb,
+      type: 3}
+  - m_GUID: 7ccb8b5444aa59140bc0195027290518
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6208879905514071205, guid: 7ccb8b5444aa59140bc0195027290518,
+      type: 3}
+    m_TargetAsset: {fileID: 6208879905514071205, guid: 7ccb8b5444aa59140bc0195027290518,
+      type: 3}
+  - m_GUID: 8ef7c673dc8ede34a8244cd8b8ac2eb8
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3099543584487760509, guid: 8ef7c673dc8ede34a8244cd8b8ac2eb8,
+      type: 3}
+    m_TargetAsset: {fileID: 3099543584487760509, guid: 8ef7c673dc8ede34a8244cd8b8ac2eb8,
+      type: 3}
+  - m_GUID: 861b4320681bcd944a0f746e7cc7f21b
+    m_Address: 23-PIXEL_CHAR_32px-BODY_BASE-GRIM_REAPER_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2888536870409604378, guid: 861b4320681bcd944a0f746e7cc7f21b,
+      type: 3}
+    m_TargetAsset: {fileID: 2888536870409604378, guid: 861b4320681bcd944a0f746e7cc7f21b,
+      type: 3}
+  - m_GUID: 98a96b1383ec9b242acf6a69c30b9121
+    m_Address: 24-PIXEL_CHAR_32px-BASE_BODY-JACK_O_LANTERN_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8723840302361214897, guid: 98a96b1383ec9b242acf6a69c30b9121,
+      type: 3}
+    m_TargetAsset: {fileID: 8723840302361214897, guid: 98a96b1383ec9b242acf6a69c30b9121,
+      type: 3}
+  - m_GUID: 65ea8a9c14c39044fa231bd2c5a869d4
+    m_Address: 00-PIXEL_CHAR_32px-MALE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2139518567268192234, guid: 65ea8a9c14c39044fa231bd2c5a869d4,
+      type: 3}
+    m_TargetAsset: {fileID: 2139518567268192234, guid: 65ea8a9c14c39044fa231bd2c5a869d4,
+      type: 3}
+  - m_GUID: 5721c2c7558d33542a1e9a177ca308e0
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2139518567268192234, guid: 5721c2c7558d33542a1e9a177ca308e0,
+      type: 3}
+    m_TargetAsset: {fileID: 2139518567268192234, guid: 5721c2c7558d33542a1e9a177ca308e0,
+      type: 3}
+  - m_GUID: f26046d9052a25e4dba1a15c4d377b85
+    m_Address: 14-PIXEL_CHAR_32px-ALIEN_BODY_BASE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8830129790006369614, guid: f26046d9052a25e4dba1a15c4d377b85,
+      type: 3}
+    m_TargetAsset: {fileID: 8830129790006369614, guid: f26046d9052a25e4dba1a15c4d377b85,
+      type: 3}
+  - m_GUID: e37a1a430f0772f4495e02dde08ebdc8
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_BASE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8729186286673840595, guid: e37a1a430f0772f4495e02dde08ebdc8,
+      type: 3}
+    m_TargetAsset: {fileID: 8729186286673840595, guid: e37a1a430f0772f4495e02dde08ebdc8,
+      type: 3}
+  - m_GUID: e79a07a0a4a28104a8f83450f25eb21e
+    m_Address: 20-PIXEL_CHAR_32px-BASE_BODY-ZOMBIE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5043547082257140528, guid: e79a07a0a4a28104a8f83450f25eb21e,
+      type: 3}
+    m_TargetAsset: {fileID: 5043547082257140528, guid: e79a07a0a4a28104a8f83450f25eb21e,
+      type: 3}
+  - m_GUID: 570ffaa32eea97d4789171e1699e9ad8
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7316725752876640655, guid: 570ffaa32eea97d4789171e1699e9ad8,
+      type: 3}
+    m_TargetAsset: {fileID: 7316725752876640655, guid: 570ffaa32eea97d4789171e1699e9ad8,
+      type: 3}
+  - m_GUID: 08ff423c6d673c1419a0846332d9b8a1
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 179373461777915411, guid: 08ff423c6d673c1419a0846332d9b8a1,
+      type: 3}
+    m_TargetAsset: {fileID: 179373461777915411, guid: 08ff423c6d673c1419a0846332d9b8a1,
+      type: 3}
+  - m_GUID: 925a1588d91d1a945b879cdf8de3024d
+    m_Address: 23-PIXEL_CHAR_32px-BODY_BASE-GRIM_REAPER_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 500806882058924067, guid: 925a1588d91d1a945b879cdf8de3024d,
+      type: 3}
+    m_TargetAsset: {fileID: 500806882058924067, guid: 925a1588d91d1a945b879cdf8de3024d,
+      type: 3}
+  - m_GUID: 8bd143c707abfc143a3c0741e010604d
+    m_Address: 24-PIXEL_CHAR_32px-BASE_BODY-JACK_O_LANTERN_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1602118939570717537, guid: 8bd143c707abfc143a3c0741e010604d,
+      type: 3}
+    m_TargetAsset: {fileID: 1602118939570717537, guid: 8bd143c707abfc143a3c0741e010604d,
+      type: 3}
+  - m_GUID: 5d1a1fd43a47d6f469b402cdbef7de97
+    m_Address: 01-PIXEL_CHAR_32px-HORNED_KNIGHT_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5245703804004914, guid: 5d1a1fd43a47d6f469b402cdbef7de97,
+      type: 3}
+    m_TargetAsset: {fileID: 5245703804004914, guid: 5d1a1fd43a47d6f469b402cdbef7de97,
+      type: 3}
+  - m_GUID: c5b025452f834924583c5a64e80786f7
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3840469647268509219, guid: c5b025452f834924583c5a64e80786f7,
+      type: 3}
+    m_TargetAsset: {fileID: 3840469647268509219, guid: c5b025452f834924583c5a64e80786f7,
+      type: 3}
+  - m_GUID: 12340780b5dc982489fe2ab793ca9b65
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1331886767709222713, guid: 12340780b5dc982489fe2ab793ca9b65,
+      type: 3}
+    m_TargetAsset: {fileID: 1331886767709222713, guid: 12340780b5dc982489fe2ab793ca9b65,
+      type: 3}
+  - m_GUID: fe9e37a44f4394440aea439867fe5771
+    m_Address: 05-PIXEL_CHAR_32px-NINJA_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2410458170342428640, guid: fe9e37a44f4394440aea439867fe5771,
+      type: 3}
+    m_TargetAsset: {fileID: 2410458170342428640, guid: fe9e37a44f4394440aea439867fe5771,
+      type: 3}
+  - m_GUID: 813347afd5c6fc245818decd635655b6
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4758080170274581542, guid: 813347afd5c6fc245818decd635655b6,
+      type: 3}
+    m_TargetAsset: {fileID: 4758080170274581542, guid: 813347afd5c6fc245818decd635655b6,
+      type: 3}
+  - m_GUID: 1b5dfcf457ce4f94791a9029d5fff6f5
+    m_Address: 06-PIXEL_CHAR_32px-KARATE_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2207081945580226019, guid: 1b5dfcf457ce4f94791a9029d5fff6f5,
+      type: 3}
+    m_TargetAsset: {fileID: 2207081945580226019, guid: 1b5dfcf457ce4f94791a9029d5fff6f5,
+      type: 3}
+  - m_GUID: 8db7a3f12e95a0f48890f9839d824d96
+    m_Address: 07-PIXEL_CHAR_32px-ASSASSIN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6704177365302672189, guid: 8db7a3f12e95a0f48890f9839d824d96,
+      type: 3}
+    m_TargetAsset: {fileID: 6704177365302672189, guid: 8db7a3f12e95a0f48890f9839d824d96,
+      type: 3}
+  - m_GUID: c609f73af60650647b3f689934a5b5b8
+    m_Address: 08-PIXEL_CHAR_32px-SHAMAN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5681044106813010020, guid: c609f73af60650647b3f689934a5b5b8,
+      type: 3}
+    m_TargetAsset: {fileID: 5681044106813010020, guid: c609f73af60650647b3f689934a5b5b8,
+      type: 3}
+  - m_GUID: bb747aca6e816fb44998ab92066eab08
+    m_Address: 09-PIXEL_CHAR_32px-GLADIATOR_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5734060579281834378, guid: bb747aca6e816fb44998ab92066eab08,
+      type: 3}
+    m_TargetAsset: {fileID: 5734060579281834378, guid: bb747aca6e816fb44998ab92066eab08,
+      type: 3}
+  - m_GUID: e786355284566524da3817b9b789e985
+    m_Address: 10-PIXEL_CHAR_32px-CYBORG_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7881080531100160832, guid: e786355284566524da3817b9b789e985,
+      type: 3}
+    m_TargetAsset: {fileID: 7881080531100160832, guid: e786355284566524da3817b9b789e985,
+      type: 3}
+  - m_GUID: 6a4aa189d2ef38a4397473c0fb8d52b9
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_SUIT_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1529009866412946900, guid: 6a4aa189d2ef38a4397473c0fb8d52b9,
+      type: 3}
+    m_TargetAsset: {fileID: 1529009866412946900, guid: 6a4aa189d2ef38a4397473c0fb8d52b9,
+      type: 3}
+  - m_GUID: 7dd4df8e11903c7409c09c7ede9d0c93
+    m_Address: 14-PIXEL_CHAR_32px-ROMAN_SOLDIER_RIGHT_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6168509040628499504, guid: 7dd4df8e11903c7409c09c7ede9d0c93,
+      type: 3}
+    m_TargetAsset: {fileID: 6168509040628499504, guid: 7dd4df8e11903c7409c09c7ede9d0c93,
+      type: 3}
+  - m_GUID: 50d8ec953d6c2ad4bb80e3614f17d66c
+    m_Address: 12-PIXEL_CHAR_32px-WORKING_MAN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 971610186418364336, guid: 50d8ec953d6c2ad4bb80e3614f17d66c,
+      type: 3}
+    m_TargetAsset: {fileID: 971610186418364336, guid: 50d8ec953d6c2ad4bb80e3614f17d66c,
+      type: 3}
+  - m_GUID: 056d3f5f17c130149b9d12d30340011b
+    m_Address: 13-PIXEL_CHAR_32px-ALIEN_SUIT_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5209594533358463631, guid: 056d3f5f17c130149b9d12d30340011b,
+      type: 3}
+    m_TargetAsset: {fileID: 5209594533358463631, guid: 056d3f5f17c130149b9d12d30340011b,
+      type: 3}
+  - m_GUID: fb5d48022a13a264bb429a4567705853
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 555536068910710355, guid: fb5d48022a13a264bb429a4567705853,
+      type: 3}
+    m_TargetAsset: {fileID: 555536068910710355, guid: fb5d48022a13a264bb429a4567705853,
+      type: 3}
+  - m_GUID: 6edecacb7801a874d80a39082fa99043
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4339449439198249616, guid: 6edecacb7801a874d80a39082fa99043,
+      type: 3}
+    m_TargetAsset: {fileID: 4339449439198249616, guid: 6edecacb7801a874d80a39082fa99043,
+      type: 3}
+  - m_GUID: 3bb808bd7ca31a84c9494800df42b421
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4548344121131558391, guid: 3bb808bd7ca31a84c9494800df42b421,
+      type: 3}
+    m_TargetAsset: {fileID: 4548344121131558391, guid: 3bb808bd7ca31a84c9494800df42b421,
+      type: 3}
+  - m_GUID: 333a3b86ec67aca4b85e88360e6c8bb8
+    m_Address: 18-PIXEL_CHAR_32px-MONK_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3309481369768898303, guid: 333a3b86ec67aca4b85e88360e6c8bb8,
+      type: 3}
+    m_TargetAsset: {fileID: 3309481369768898303, guid: 333a3b86ec67aca4b85e88360e6c8bb8,
+      type: 3}
+  - m_GUID: 1171b78d7fb1dde458be77ec7a3d5455
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9117337719427028493, guid: 1171b78d7fb1dde458be77ec7a3d5455,
+      type: 3}
+    m_TargetAsset: {fileID: 9117337719427028493, guid: 1171b78d7fb1dde458be77ec7a3d5455,
+      type: 3}
+  - m_GUID: f305374c73fdac8439ed106ea21dd13f
+    m_Address: 20-PIXEL_CHAR_32px-ZOMBIE_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1106865231024669104, guid: f305374c73fdac8439ed106ea21dd13f,
+      type: 3}
+    m_TargetAsset: {fileID: 1106865231024669104, guid: f305374c73fdac8439ed106ea21dd13f,
+      type: 3}
+  - m_GUID: 20d1e8afcd6fa5940a654a0606860ae3
+    m_Address: 23-PIXEL_CHAR_32px-GRIM_REAPER_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3188128314891434328, guid: 20d1e8afcd6fa5940a654a0606860ae3,
+      type: 3}
+    m_TargetAsset: {fileID: 3188128314891434328, guid: 20d1e8afcd6fa5940a654a0606860ae3,
+      type: 3}
+  - m_GUID: 6a7f905b9c97fa7479f297fc871d7836
+    m_Address: 24-PIXEL_CHAR_32px-JACK_O_LANTERN_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9053205169332561228, guid: 6a7f905b9c97fa7479f297fc871d7836,
+      type: 3}
+    m_TargetAsset: {fileID: 9053205169332561228, guid: 6a7f905b9c97fa7479f297fc871d7836,
+      type: 3}
+  - m_GUID: d9cace4a1c09aba4fbf67f903359afa1
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1940984617234242126, guid: d9cace4a1c09aba4fbf67f903359afa1,
+      type: 3}
+    m_TargetAsset: {fileID: 1940984617234242126, guid: d9cace4a1c09aba4fbf67f903359afa1,
+      type: 3}
+  - m_GUID: 33acac71cb511c84c8de572a97ac672e
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7237572207853705380, guid: 33acac71cb511c84c8de572a97ac672e,
+      type: 3}
+    m_TargetAsset: {fileID: 7237572207853705380, guid: 33acac71cb511c84c8de572a97ac672e,
+      type: 3}
+  - m_GUID: 98dea3952bcea8542add33ab19f9fad5
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5685430565103919106, guid: 98dea3952bcea8542add33ab19f9fad5,
+      type: 3}
+    m_TargetAsset: {fileID: 5685430565103919106, guid: 98dea3952bcea8542add33ab19f9fad5,
+      type: 3}
+  - m_GUID: 752da38685c8a2f468606e4860c93224
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7889556943155226340, guid: 752da38685c8a2f468606e4860c93224,
+      type: 3}
+    m_TargetAsset: {fileID: 7889556943155226340, guid: 752da38685c8a2f468606e4860c93224,
+      type: 3}
+  - m_GUID: ee02f875fc9b86b4aad38428d860a11c
+    m_Address: 06-PIXEL_CHAR_32px-KARATE_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8301431478375740775, guid: ee02f875fc9b86b4aad38428d860a11c,
+      type: 3}
+    m_TargetAsset: {fileID: 8301431478375740775, guid: ee02f875fc9b86b4aad38428d860a11c,
+      type: 3}
+  - m_GUID: c0634e0d70ec2d943af4b2c346df8a6f
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4465961010425934208, guid: c0634e0d70ec2d943af4b2c346df8a6f,
+      type: 3}
+    m_TargetAsset: {fileID: 4465961010425934208, guid: c0634e0d70ec2d943af4b2c346df8a6f,
+      type: 3}
+  - m_GUID: f5b60d2ffa6ad9040970d502f760b0bf
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2588931015914047901, guid: f5b60d2ffa6ad9040970d502f760b0bf,
+      type: 3}
+    m_TargetAsset: {fileID: 2588931015914047901, guid: f5b60d2ffa6ad9040970d502f760b0bf,
+      type: 3}
+  - m_GUID: b62c518d95414de4aadad8f5cce7d874
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5649110025519340494, guid: b62c518d95414de4aadad8f5cce7d874,
+      type: 3}
+    m_TargetAsset: {fileID: 5649110025519340494, guid: b62c518d95414de4aadad8f5cce7d874,
+      type: 3}
+  - m_GUID: 192764f226eb5ec4e8cf3bce74616bf4
+    m_Address: 18-PIXEL_CHAR_32px-MONK_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5788645690562760399, guid: 192764f226eb5ec4e8cf3bce74616bf4,
+      type: 3}
+    m_TargetAsset: {fileID: 5788645690562760399, guid: 192764f226eb5ec4e8cf3bce74616bf4,
+      type: 3}
+  - m_GUID: a51de40a66821104bbde31095a6f447e
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4217182100712862921, guid: a51de40a66821104bbde31095a6f447e,
+      type: 3}
+    m_TargetAsset: {fileID: 4217182100712862921, guid: a51de40a66821104bbde31095a6f447e,
+      type: 3}
+  - m_GUID: e951938c5521b9d4eaf83c61cb6f61dd
+    m_Address: 01-PIXEL_CHAR_32px-HORNED_KNIGHT_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7030107446183917122, guid: e951938c5521b9d4eaf83c61cb6f61dd,
+      type: 3}
+    m_TargetAsset: {fileID: 7030107446183917122, guid: e951938c5521b9d4eaf83c61cb6f61dd,
+      type: 3}
+  - m_GUID: e77b6c99c3bc10f4db9d162ee3985e38
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2510139833183568885, guid: e77b6c99c3bc10f4db9d162ee3985e38,
+      type: 3}
+    m_TargetAsset: {fileID: 2510139833183568885, guid: e77b6c99c3bc10f4db9d162ee3985e38,
+      type: 3}
+  - m_GUID: d3a7106e87cd95844ba9dc54ea8abf60
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6162463447994058902, guid: d3a7106e87cd95844ba9dc54ea8abf60,
+      type: 3}
+    m_TargetAsset: {fileID: 6162463447994058902, guid: d3a7106e87cd95844ba9dc54ea8abf60,
+      type: 3}
+  - m_GUID: 1c2f6f00b846ddb46aa49b33ff67ecee
+    m_Address: 05-PIXEL_CHAR_32px-NINJA_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2740346003387614039, guid: 1c2f6f00b846ddb46aa49b33ff67ecee,
+      type: 3}
+    m_TargetAsset: {fileID: 2740346003387614039, guid: 1c2f6f00b846ddb46aa49b33ff67ecee,
+      type: 3}
+  - m_GUID: d3f6a476243c50148a43fdaccbc4a85e
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2002534825900206109, guid: d3f6a476243c50148a43fdaccbc4a85e,
+      type: 3}
+    m_TargetAsset: {fileID: 2002534825900206109, guid: d3f6a476243c50148a43fdaccbc4a85e,
+      type: 3}
+  - m_GUID: 819de9db23087f947af26cb2f898b132
+    m_Address: 06-PIXEL_CHAR_32px-KARATE_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 428048937384507334, guid: 819de9db23087f947af26cb2f898b132,
+      type: 3}
+    m_TargetAsset: {fileID: 428048937384507334, guid: 819de9db23087f947af26cb2f898b132,
+      type: 3}
+  - m_GUID: 1a6810f7fc10b2244bdd371827649d67
+    m_Address: 07-PIXEL_CHAR_32px-ASSASSIN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7874269622019842240, guid: 1a6810f7fc10b2244bdd371827649d67,
+      type: 3}
+    m_TargetAsset: {fileID: 7874269622019842240, guid: 1a6810f7fc10b2244bdd371827649d67,
+      type: 3}
+  - m_GUID: 9b3e0e4641645a748bc0f14d19d5e269
+    m_Address: 08-PIXEL_CHAR_32px-SHAMAN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1140304584908634970, guid: 9b3e0e4641645a748bc0f14d19d5e269,
+      type: 3}
+    m_TargetAsset: {fileID: 1140304584908634970, guid: 9b3e0e4641645a748bc0f14d19d5e269,
+      type: 3}
+  - m_GUID: 2923cbfca83cf3841a68204bbc1b521f
+    m_Address: 09-PIXEL_CHAR_32px-GLADIATOR_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3335976659313393253, guid: 2923cbfca83cf3841a68204bbc1b521f,
+      type: 3}
+    m_TargetAsset: {fileID: 3335976659313393253, guid: 2923cbfca83cf3841a68204bbc1b521f,
+      type: 3}
+  - m_GUID: e3f5d1490c38f8442a93ecf4489bc3b3
+    m_Address: 10-PIXEL_CHAR_32px-CYBORG_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3278583927388985511, guid: e3f5d1490c38f8442a93ecf4489bc3b3,
+      type: 3}
+    m_TargetAsset: {fileID: 3278583927388985511, guid: e3f5d1490c38f8442a93ecf4489bc3b3,
+      type: 3}
+  - m_GUID: 55f6d7d443c915b4fb0fc0e4de0fba0c
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_SUIT_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 452049047302281212, guid: 55f6d7d443c915b4fb0fc0e4de0fba0c,
+      type: 3}
+    m_TargetAsset: {fileID: 452049047302281212, guid: 55f6d7d443c915b4fb0fc0e4de0fba0c,
+      type: 3}
+  - m_GUID: e4af0eae4050cbe47ab5264da10fd3b8
+    m_Address: 14-PIXEL_CHAR_32px-ROMAN_SOLDIER_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1468631897356409741, guid: e4af0eae4050cbe47ab5264da10fd3b8,
+      type: 3}
+    m_TargetAsset: {fileID: 1468631897356409741, guid: e4af0eae4050cbe47ab5264da10fd3b8,
+      type: 3}
+  - m_GUID: 72a7760a15db4374caea6ad54880c174
+    m_Address: 12-PIXEL_CHAR_32px-WORKING_MAN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6447813207921115014, guid: 72a7760a15db4374caea6ad54880c174,
+      type: 3}
+    m_TargetAsset: {fileID: 6447813207921115014, guid: 72a7760a15db4374caea6ad54880c174,
+      type: 3}
+  - m_GUID: 454c2c195ab571b46b0888a600bbff6c
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8916113500526335544, guid: 454c2c195ab571b46b0888a600bbff6c,
+      type: 3}
+    m_TargetAsset: {fileID: 8916113500526335544, guid: 454c2c195ab571b46b0888a600bbff6c,
+      type: 3}
+  - m_GUID: 57268d4aff1008544a239d9c66eb260c
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7613219955676557387, guid: 57268d4aff1008544a239d9c66eb260c,
+      type: 3}
+    m_TargetAsset: {fileID: 7613219955676557387, guid: 57268d4aff1008544a239d9c66eb260c,
+      type: 3}
+  - m_GUID: 96b3f17c863f29f40bae80c00143d1ee
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6797499037715415487, guid: 96b3f17c863f29f40bae80c00143d1ee,
+      type: 3}
+    m_TargetAsset: {fileID: 6797499037715415487, guid: 96b3f17c863f29f40bae80c00143d1ee,
+      type: 3}
+  - m_GUID: f7ba9509a5f32c94da7b1d13ae904dd6
+    m_Address: 18-PIXEL_CHAR_32px-MONK_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6050579048852809646, guid: f7ba9509a5f32c94da7b1d13ae904dd6,
+      type: 3}
+    m_TargetAsset: {fileID: 6050579048852809646, guid: f7ba9509a5f32c94da7b1d13ae904dd6,
+      type: 3}
+  - m_GUID: f70cd5d70d723234c950db15dd552e6a
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 647077878547327165, guid: f70cd5d70d723234c950db15dd552e6a,
+      type: 3}
+    m_TargetAsset: {fileID: 647077878547327165, guid: f70cd5d70d723234c950db15dd552e6a,
+      type: 3}
+  - m_GUID: 1fbb05f91ff3a7e468143433b409830d
+    m_Address: 23-PIXEL_CHAR_32px-GRIM_REAPER_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3980845679282955396, guid: 1fbb05f91ff3a7e468143433b409830d,
+      type: 3}
+    m_TargetAsset: {fileID: 3980845679282955396, guid: 1fbb05f91ff3a7e468143433b409830d,
+      type: 3}
+  - m_GUID: d06885826ded29547a7fb7cd5db417ee
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1031983691425837018, guid: d06885826ded29547a7fb7cd5db417ee,
+      type: 3}
+    m_TargetAsset: {fileID: 1031983691425837018, guid: d06885826ded29547a7fb7cd5db417ee,
+      type: 3}
+  - m_GUID: dd83390ba8d77ea49a7fd033a0cb8c4c
+    m_Address: 01-PIXEL_CHAR_32px-HORNED_KNIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1605003268221657561, guid: dd83390ba8d77ea49a7fd033a0cb8c4c,
+      type: 3}
+    m_TargetAsset: {fileID: 1605003268221657561, guid: dd83390ba8d77ea49a7fd033a0cb8c4c,
+      type: 3}
+  - m_GUID: 75b15938dad663249bf44c3c5db1d413
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4494445609752346530, guid: 75b15938dad663249bf44c3c5db1d413,
+      type: 3}
+    m_TargetAsset: {fileID: 4494445609752346530, guid: 75b15938dad663249bf44c3c5db1d413,
+      type: 3}
+  - m_GUID: b7d0412791a49b047a4d452f0aadb01a
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 60714069496699883, guid: b7d0412791a49b047a4d452f0aadb01a,
+      type: 3}
+    m_TargetAsset: {fileID: 60714069496699883, guid: b7d0412791a49b047a4d452f0aadb01a,
+      type: 3}
+  - m_GUID: cd0ed852affc85b4db8758ec4e8fe13c
+    m_Address: 05-PIXEL_CHAR_32px-NINJA_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8349008679410089216, guid: cd0ed852affc85b4db8758ec4e8fe13c,
+      type: 3}
+    m_TargetAsset: {fileID: 8349008679410089216, guid: cd0ed852affc85b4db8758ec4e8fe13c,
+      type: 3}
+  - m_GUID: a767a50e53ac1b641a972cf61439933c
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 449504374886280024, guid: a767a50e53ac1b641a972cf61439933c,
+      type: 3}
+    m_TargetAsset: {fileID: 449504374886280024, guid: a767a50e53ac1b641a972cf61439933c,
+      type: 3}
+  - m_GUID: 07c964165ced86a4e8365eaa214de88c
+    m_Address: 06-PIXEL_CHAR_32px-KARATE_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3559976240462684984, guid: 07c964165ced86a4e8365eaa214de88c,
+      type: 3}
+    m_TargetAsset: {fileID: 3559976240462684984, guid: 07c964165ced86a4e8365eaa214de88c,
+      type: 3}
+  - m_GUID: cc8f47cba3382794ca62a3516fe51b91
+    m_Address: 07-PIXEL_CHAR_32px-ASSASSIN_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8904580827418161968, guid: cc8f47cba3382794ca62a3516fe51b91,
+      type: 3}
+    m_TargetAsset: {fileID: 8904580827418161968, guid: cc8f47cba3382794ca62a3516fe51b91,
+      type: 3}
+  - m_GUID: 63a8459c775b27f4cb6813a3da26bad9
+    m_Address: 08-PIXEL_CHAR_32px-SHAMAN_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9129936371192933381, guid: 63a8459c775b27f4cb6813a3da26bad9,
+      type: 3}
+    m_TargetAsset: {fileID: 9129936371192933381, guid: 63a8459c775b27f4cb6813a3da26bad9,
+      type: 3}
+  - m_GUID: 6897834f848780349ac273d61b7d02ce
+    m_Address: 09-PIXEL_CHAR_32px-GLADIATOR_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6201403708746960318, guid: 6897834f848780349ac273d61b7d02ce,
+      type: 3}
+    m_TargetAsset: {fileID: 6201403708746960318, guid: 6897834f848780349ac273d61b7d02ce,
+      type: 3}
+  - m_GUID: 89e94405f769f0f44a72e66bbc424c69
+    m_Address: 10-PIXEL_CHAR_32px-CYBORG_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2944809751432594276, guid: 89e94405f769f0f44a72e66bbc424c69,
+      type: 3}
+    m_TargetAsset: {fileID: 2944809751432594276, guid: 89e94405f769f0f44a72e66bbc424c69,
+      type: 3}
+  - m_GUID: ea197fe63911c5c4aa1d20840f8e8d60
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_SUIT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 904087983271808340, guid: ea197fe63911c5c4aa1d20840f8e8d60,
+      type: 3}
+    m_TargetAsset: {fileID: 904087983271808340, guid: ea197fe63911c5c4aa1d20840f8e8d60,
+      type: 3}
+  - m_GUID: 437e135e47131d94abd04673089ff590
+    m_Address: 14-PIXEL_CHAR_32px-ROMAN_SOLDIER_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4981811139026427913, guid: 437e135e47131d94abd04673089ff590,
+      type: 3}
+    m_TargetAsset: {fileID: 4981811139026427913, guid: 437e135e47131d94abd04673089ff590,
+      type: 3}
+  - m_GUID: 0d2861e61890455469c069c617090f10
+    m_Address: 12-PIXEL_CHAR_32px-WORKING_MAN_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7762328581285758126, guid: 0d2861e61890455469c069c617090f10,
+      type: 3}
+    m_TargetAsset: {fileID: 7762328581285758126, guid: 0d2861e61890455469c069c617090f10,
+      type: 3}
+  - m_GUID: 02f3bfa056b4cfe439fd7b76af69c60e
+    m_Address: 13-PIXEL_SUIT_32px-ALIEN_SUIT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4593822765867856825, guid: 02f3bfa056b4cfe439fd7b76af69c60e,
+      type: 3}
+    m_TargetAsset: {fileID: 4593822765867856825, guid: 02f3bfa056b4cfe439fd7b76af69c60e,
+      type: 3}
+  - m_GUID: 5a984e229a8670143ad67f3023011ae9
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5785184052422679141, guid: 5a984e229a8670143ad67f3023011ae9,
+      type: 3}
+    m_TargetAsset: {fileID: 5785184052422679141, guid: 5a984e229a8670143ad67f3023011ae9,
+      type: 3}
+  - m_GUID: 573725a9218dfc545bb3ad032670202f
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8128422569708391237, guid: 573725a9218dfc545bb3ad032670202f,
+      type: 3}
+    m_TargetAsset: {fileID: 8128422569708391237, guid: 573725a9218dfc545bb3ad032670202f,
+      type: 3}
+  - m_GUID: 2bf743d45b419b74f804c86535d90ccf
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_RIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3800803900444578626, guid: 2bf743d45b419b74f804c86535d90ccf,
+      type: 3}
+    m_TargetAsset: {fileID: 3800803900444578626, guid: 2bf743d45b419b74f804c86535d90ccf,
+      type: 3}
+  - m_GUID: bbfa49f16bf45f546b83708653676c60
+    m_Address: 18-PIXEL_CHAR_32px-MONK_RIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5140359037578288703, guid: bbfa49f16bf45f546b83708653676c60,
+      type: 3}
+    m_TargetAsset: {fileID: 5140359037578288703, guid: bbfa49f16bf45f546b83708653676c60,
+      type: 3}
+  - m_GUID: 599254c4bb073bd46ab12462b9393856
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_RIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7608819783257608485, guid: 599254c4bb073bd46ab12462b9393856,
+      type: 3}
+    m_TargetAsset: {fileID: 7608819783257608485, guid: 599254c4bb073bd46ab12462b9393856,
+      type: 3}
+  - m_GUID: 75c2059a0f359b042922fcf422d089a9
+    m_Address: 20-PIXEL_CHAR_32px-ZOMBIE_RIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6661973648063075131, guid: 75c2059a0f359b042922fcf422d089a9,
+      type: 3}
+    m_TargetAsset: {fileID: 6661973648063075131, guid: 75c2059a0f359b042922fcf422d089a9,
+      type: 3}
+  - m_GUID: bd094ffbc4b9df947863fdc0c4470cec
+    m_Address: 23-PIXEL_CHAR_32px-GRIM_REAPER_RIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9100474355568328796, guid: bd094ffbc4b9df947863fdc0c4470cec,
+      type: 3}
+    m_TargetAsset: {fileID: 9100474355568328796, guid: bd094ffbc4b9df947863fdc0c4470cec,
+      type: 3}
+  - m_GUID: 5bdcfd525e3299248b17d9734fbb8ead
+    m_Address: 24-PIXEL_CHAR_32px-JACK_O_LANTERN_RIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 890239084456616512, guid: 5bdcfd525e3299248b17d9734fbb8ead,
+      type: 3}
+    m_TargetAsset: {fileID: 890239084456616512, guid: 5bdcfd525e3299248b17d9734fbb8ead,
+      type: 3}
+  - m_GUID: d5a73070498a6884e9dc7a8dcff127b8
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_RIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4770774508118806052, guid: d5a73070498a6884e9dc7a8dcff127b8,
+      type: 3}
+    m_TargetAsset: {fileID: 4770774508118806052, guid: d5a73070498a6884e9dc7a8dcff127b8,
+      type: 3}
+  - m_GUID: a8030b9da2fb42c4d8419c988e269898
+    m_Address: 01-PIXEL_CHAR_32px-HORNED_KNIGHT_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7809949806555583383, guid: a8030b9da2fb42c4d8419c988e269898,
+      type: 3}
+    m_TargetAsset: {fileID: 7809949806555583383, guid: a8030b9da2fb42c4d8419c988e269898,
+      type: 3}
+  - m_GUID: 827e7bc0c207a434eb233ccf16ce571c
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4955279476013717674, guid: 827e7bc0c207a434eb233ccf16ce571c,
+      type: 3}
+    m_TargetAsset: {fileID: 4955279476013717674, guid: 827e7bc0c207a434eb233ccf16ce571c,
+      type: 3}
+  - m_GUID: 4c499eb71b6025c4ea91495df4560aed
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1568991678087163682, guid: 4c499eb71b6025c4ea91495df4560aed,
+      type: 3}
+    m_TargetAsset: {fileID: 1568991678087163682, guid: 4c499eb71b6025c4ea91495df4560aed,
+      type: 3}
+  - m_GUID: baad7de18e00d5544ab131c7a3148d35
+    m_Address: 05-PIXEL_CHAR_32px-NINJA_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8826642142862250718, guid: baad7de18e00d5544ab131c7a3148d35,
+      type: 3}
+    m_TargetAsset: {fileID: 8826642142862250718, guid: baad7de18e00d5544ab131c7a3148d35,
+      type: 3}
+  - m_GUID: 39baddb7db75f454988fe257dea7ea52
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 208147502914892003, guid: 39baddb7db75f454988fe257dea7ea52,
+      type: 3}
+    m_TargetAsset: {fileID: 208147502914892003, guid: 39baddb7db75f454988fe257dea7ea52,
+      type: 3}
+  - m_GUID: ce844ca025489ac49a819bb6e1363a4d
+    m_Address: 06-PIXEL_CHAR_32px-KARATE_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5853001835719798808, guid: ce844ca025489ac49a819bb6e1363a4d,
+      type: 3}
+    m_TargetAsset: {fileID: 5853001835719798808, guid: ce844ca025489ac49a819bb6e1363a4d,
+      type: 3}
+  - m_GUID: 49291fb09500af1428c20a86b144ccdb
+    m_Address: 07-PIXEL_CHAR_32px-ASSASSIN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 9043468533839445329, guid: 49291fb09500af1428c20a86b144ccdb,
+      type: 3}
+    m_TargetAsset: {fileID: 9043468533839445329, guid: 49291fb09500af1428c20a86b144ccdb,
+      type: 3}
+  - m_GUID: 96dc319f5e3201f4b82195ac1049381e
+    m_Address: 08-PIXEL_CHAR_32px-SHAMAN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5971053843987030045, guid: 96dc319f5e3201f4b82195ac1049381e,
+      type: 3}
+    m_TargetAsset: {fileID: 5971053843987030045, guid: 96dc319f5e3201f4b82195ac1049381e,
+      type: 3}
+  - m_GUID: 7c5460291666bce4a9fe8b97dfd0c34c
+    m_Address: 09-PIXEL_CHAR_32px-GLADIATOR_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3331622938406681535, guid: 7c5460291666bce4a9fe8b97dfd0c34c,
+      type: 3}
+    m_TargetAsset: {fileID: 3331622938406681535, guid: 7c5460291666bce4a9fe8b97dfd0c34c,
+      type: 3}
+  - m_GUID: c725d47e86fed48469861d3930950299
+    m_Address: 10-PIXEL_CHAR_32px-CYBORG_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 154198566904108942, guid: c725d47e86fed48469861d3930950299,
+      type: 3}
+    m_TargetAsset: {fileID: 154198566904108942, guid: c725d47e86fed48469861d3930950299,
+      type: 3}
+  - m_GUID: 57c48ddb09d157d4a85256e75501e88f
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_SUIT_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8535694692403213054, guid: 57c48ddb09d157d4a85256e75501e88f,
+      type: 3}
+    m_TargetAsset: {fileID: 8535694692403213054, guid: 57c48ddb09d157d4a85256e75501e88f,
+      type: 3}
+  - m_GUID: ac2885fea4a079846a9b12775e4a6709
+    m_Address: 14-PIXEL_CHAR_32px-ROMAN_SOLDIER_RIGHT_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 8816667988112883941, guid: ac2885fea4a079846a9b12775e4a6709,
+      type: 3}
+    m_TargetAsset: {fileID: 8816667988112883941, guid: ac2885fea4a079846a9b12775e4a6709,
+      type: 3}
+  - m_GUID: 62efd466d3140f94ca4a4fea20973fb5
+    m_Address: 12-PIXEL_CHAR_32px-WORKING_MAN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4941720807165995280, guid: 62efd466d3140f94ca4a4fea20973fb5,
+      type: 3}
+    m_TargetAsset: {fileID: 4941720807165995280, guid: 62efd466d3140f94ca4a4fea20973fb5,
+      type: 3}
+  - m_GUID: efe48e62d1165e140bb2e3363fdf9af5
+    m_Address: 13-PIXEL_CHAR_32px-ALIEN_SUIT_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7942408902775851510, guid: efe48e62d1165e140bb2e3363fdf9af5,
+      type: 3}
+    m_TargetAsset: {fileID: 7942408902775851510, guid: efe48e62d1165e140bb2e3363fdf9af5,
+      type: 3}
+  - m_GUID: 5fa7a1e7a46114e4b95a1e9007222df0
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4213288169558692833, guid: 5fa7a1e7a46114e4b95a1e9007222df0,
+      type: 3}
+    m_TargetAsset: {fileID: 4213288169558692833, guid: 5fa7a1e7a46114e4b95a1e9007222df0,
+      type: 3}
+  - m_GUID: 15f3201a32370c44998437bfa0109741
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1187646415309999768, guid: 15f3201a32370c44998437bfa0109741,
+      type: 3}
+    m_TargetAsset: {fileID: 1187646415309999768, guid: 15f3201a32370c44998437bfa0109741,
+      type: 3}
+  - m_GUID: d71a81d19dae8a04db102bc3eb2f2d0e
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6754340750814434712, guid: d71a81d19dae8a04db102bc3eb2f2d0e,
+      type: 3}
+    m_TargetAsset: {fileID: 6754340750814434712, guid: d71a81d19dae8a04db102bc3eb2f2d0e,
+      type: 3}
+  - m_GUID: 49a56130bc87e474e9078839af053357
+    m_Address: 18-PIXEL_CHAR_32px-MONK_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2004166999765491786, guid: 49a56130bc87e474e9078839af053357,
+      type: 3}
+    m_TargetAsset: {fileID: 2004166999765491786, guid: 49a56130bc87e474e9078839af053357,
+      type: 3}
+  - m_GUID: c1b39bd4d8e1b174b988f18865f72c9d
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4056789874215949770, guid: c1b39bd4d8e1b174b988f18865f72c9d,
+      type: 3}
+    m_TargetAsset: {fileID: 4056789874215949770, guid: c1b39bd4d8e1b174b988f18865f72c9d,
+      type: 3}
+  - m_GUID: 0f54ff2e700ab824a855ff67ea6616a0
+    m_Address: 20-PIXEL_CHAR_32px-ZOMBIE_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4934110629364293193, guid: 0f54ff2e700ab824a855ff67ea6616a0,
+      type: 3}
+    m_TargetAsset: {fileID: 4934110629364293193, guid: 0f54ff2e700ab824a855ff67ea6616a0,
+      type: 3}
+  - m_GUID: 48a0bd19ccc0e0b40a3270ff68c9bf07
+    m_Address: 23-PIXEL_CHAR_32px-GRIM_REAPER_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 39679616573416653, guid: 48a0bd19ccc0e0b40a3270ff68c9bf07,
+      type: 3}
+    m_TargetAsset: {fileID: 39679616573416653, guid: 48a0bd19ccc0e0b40a3270ff68c9bf07,
+      type: 3}
+  - m_GUID: 404ef82f823a8234195490218f058c3b
+    m_Address: 24-PIXEL_CHAR_32px-JACK_O_LANTERN_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 693644809979970075, guid: 404ef82f823a8234195490218f058c3b,
+      type: 3}
+    m_TargetAsset: {fileID: 693644809979970075, guid: 404ef82f823a8234195490218f058c3b,
+      type: 3}
+  - m_GUID: 155873cb7f7a90a40b66240e025ac8c9
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 505464216558543114, guid: 155873cb7f7a90a40b66240e025ac8c9,
+      type: 3}
+    m_TargetAsset: {fileID: 505464216558543114, guid: 155873cb7f7a90a40b66240e025ac8c9,
+      type: 3}
+  - m_GUID: 011d19ae27f3b41409474ae2efca04ec
+    m_Address: 01-PIXEL_CHAR_32px-HORNED_KNIGHT_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7185193865873037293, guid: 011d19ae27f3b41409474ae2efca04ec,
+      type: 3}
+    m_TargetAsset: {fileID: 7185193865873037293, guid: 011d19ae27f3b41409474ae2efca04ec,
+      type: 3}
+  - m_GUID: c15f903a5c0fffd48bbaa0966a32f175
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6400404871133403550, guid: c15f903a5c0fffd48bbaa0966a32f175,
+      type: 3}
+    m_TargetAsset: {fileID: 6400404871133403550, guid: c15f903a5c0fffd48bbaa0966a32f175,
+      type: 3}
+  - m_GUID: 3d9344845d3cf7f469bc8c6a107b1b5d
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5155534923747257130, guid: 3d9344845d3cf7f469bc8c6a107b1b5d,
+      type: 3}
+    m_TargetAsset: {fileID: 5155534923747257130, guid: 3d9344845d3cf7f469bc8c6a107b1b5d,
+      type: 3}
+  - m_GUID: 365c0c4ff64134646acbfd69e9ae1cba
+    m_Address: 05-PIXEL_CHAR_32px-NINJA_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4170425642859450045, guid: 365c0c4ff64134646acbfd69e9ae1cba,
+      type: 3}
+    m_TargetAsset: {fileID: 4170425642859450045, guid: 365c0c4ff64134646acbfd69e9ae1cba,
+      type: 3}
+  - m_GUID: 624a3f7b9fcc1084abbff3fd67ee5c30
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4009751524213463741, guid: 624a3f7b9fcc1084abbff3fd67ee5c30,
+      type: 3}
+    m_TargetAsset: {fileID: 4009751524213463741, guid: 624a3f7b9fcc1084abbff3fd67ee5c30,
+      type: 3}
+  - m_GUID: f399eb7de8044d24e8a0b9b6aa32c877
+    m_Address: 06-PIXEL_CHAR_32px-KARATE_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4412459741187251425, guid: f399eb7de8044d24e8a0b9b6aa32c877,
+      type: 3}
+    m_TargetAsset: {fileID: 4412459741187251425, guid: f399eb7de8044d24e8a0b9b6aa32c877,
+      type: 3}
+  - m_GUID: 073d9e4e279871a4199b4ed8beed52a7
+    m_Address: 07-PIXEL_CHAR_32px-ASSASSIN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4907117704710566674, guid: 073d9e4e279871a4199b4ed8beed52a7,
+      type: 3}
+    m_TargetAsset: {fileID: 4907117704710566674, guid: 073d9e4e279871a4199b4ed8beed52a7,
+      type: 3}
+  - m_GUID: f26073eb00b430a4abbf8f8bf1d9c125
+    m_Address: 08-PIXEL_CHAR_32px-SHAMAN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7350255760899920952, guid: f26073eb00b430a4abbf8f8bf1d9c125,
+      type: 3}
+    m_TargetAsset: {fileID: 7350255760899920952, guid: f26073eb00b430a4abbf8f8bf1d9c125,
+      type: 3}
+  - m_GUID: a4ef54767b473df4291a98d02ba7760d
+    m_Address: 09-PIXEL_CHAR_32px-GLADIATOR_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3457106756123507921, guid: a4ef54767b473df4291a98d02ba7760d,
+      type: 3}
+    m_TargetAsset: {fileID: 3457106756123507921, guid: a4ef54767b473df4291a98d02ba7760d,
+      type: 3}
+  - m_GUID: b4c1ce93f2d85804bb1dbb432d5a1736
+    m_Address: 10-PIXEL_CHAR_32px-CYBORG_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 878743498965729945, guid: b4c1ce93f2d85804bb1dbb432d5a1736,
+      type: 3}
+    m_TargetAsset: {fileID: 878743498965729945, guid: b4c1ce93f2d85804bb1dbb432d5a1736,
+      type: 3}
+  - m_GUID: 9be51aa9156d83d4c8eb9ba5076b720d
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_SUIT_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7666127343635729116, guid: 9be51aa9156d83d4c8eb9ba5076b720d,
+      type: 3}
+    m_TargetAsset: {fileID: 7666127343635729116, guid: 9be51aa9156d83d4c8eb9ba5076b720d,
+      type: 3}
+  - m_GUID: 9231557942008184fb8d51ae13cb022d
+    m_Address: 14-PIXEL_CHAR_32px-ROMAN_SOLDIER_WEAPONpng
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3616776827827783577, guid: 9231557942008184fb8d51ae13cb022d,
+      type: 3}
+    m_TargetAsset: {fileID: 3616776827827783577, guid: 9231557942008184fb8d51ae13cb022d,
+      type: 3}
+  - m_GUID: 0217cd67f389b8c45a362e6fa03f1760
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3263997421163553636, guid: 0217cd67f389b8c45a362e6fa03f1760,
+      type: 3}
+    m_TargetAsset: {fileID: 3263997421163553636, guid: 0217cd67f389b8c45a362e6fa03f1760,
+      type: 3}
+  - m_GUID: 784c9e45b167755419e44432235b114c
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 6233989482779729548, guid: 784c9e45b167755419e44432235b114c,
+      type: 3}
+    m_TargetAsset: {fileID: 6233989482779729548, guid: 784c9e45b167755419e44432235b114c,
+      type: 3}
+  - m_GUID: 6f63a9c5fc8222e4cb9226a1f5b5636b
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4386304675066138352, guid: 6f63a9c5fc8222e4cb9226a1f5b5636b,
+      type: 3}
+    m_TargetAsset: {fileID: 4386304675066138352, guid: 6f63a9c5fc8222e4cb9226a1f5b5636b,
+      type: 3}
+  - m_GUID: 9ee6310e9721ae2489957605899fc394
+    m_Address: 18-PIXEL_CHAR_32px-MONK_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 7664178133308711237, guid: 9ee6310e9721ae2489957605899fc394,
+      type: 3}
+    m_TargetAsset: {fileID: 7664178133308711237, guid: 9ee6310e9721ae2489957605899fc394,
+      type: 3}
+  - m_GUID: 44400ef96383b734290b064817a0b3bc
+    m_Address: 20-PIXEL_CHAR_32px-ZOMBIE_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2033259521565895502, guid: 44400ef96383b734290b064817a0b3bc,
+      type: 3}
+    m_TargetAsset: {fileID: 2033259521565895502, guid: 44400ef96383b734290b064817a0b3bc,
+      type: 3}
+  - m_GUID: 4532048882927ef4faebfa4e668b1985
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4934176171075081885, guid: 4532048882927ef4faebfa4e668b1985,
+      type: 3}
+    m_TargetAsset: {fileID: 4934176171075081885, guid: 4532048882927ef4faebfa4e668b1985,
+      type: 3}
+  - m_GUID: 1b8b8742b655558438b71b510217eb51
+    m_Address: 23-PIXEL_CHAR_32px-GRIM_REAPER_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1524167165752748771, guid: 1b8b8742b655558438b71b510217eb51,
+      type: 3}
+    m_TargetAsset: {fileID: 1524167165752748771, guid: 1b8b8742b655558438b71b510217eb51,
+      type: 3}
+  - m_GUID: 46e9cfa7db46e874d9c1761d29cbf328
+    m_Address: 24-PIXEL_CHAR_32px-JACK_O_LANTERN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 1237523717851432379, guid: 46e9cfa7db46e874d9c1761d29cbf328,
+      type: 3}
+    m_TargetAsset: {fileID: 1237523717851432379, guid: 46e9cfa7db46e874d9c1761d29cbf328,
+      type: 3}
+  - m_GUID: a069030faed63054992731395e635c0b
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 20165900056567022, guid: a069030faed63054992731395e635c0b,
+      type: 3}
+    m_TargetAsset: {fileID: 20165900056567022, guid: a069030faed63054992731395e635c0b,
+      type: 3}
+  - m_GUID: 9fcb0ef4f8c5cb243abee1da60492dd3
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5483634864549784462, guid: 9fcb0ef4f8c5cb243abee1da60492dd3,
+      type: 3}
+    m_TargetAsset: {fileID: 5483634864549784462, guid: 9fcb0ef4f8c5cb243abee1da60492dd3,
+      type: 3}
+  - m_GUID: 036cfd297bf77fa4484dea5858e01fdb
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3791152278789011103, guid: 036cfd297bf77fa4484dea5858e01fdb,
+      type: 3}
+    m_TargetAsset: {fileID: 3791152278789011103, guid: 036cfd297bf77fa4484dea5858e01fdb,
+      type: 3}
+  - m_GUID: eadcaaa5af4f66c4f9cec86f47bdd7df
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_RIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2122219521504579270, guid: eadcaaa5af4f66c4f9cec86f47bdd7df,
+      type: 3}
+    m_TargetAsset: {fileID: 2122219521504579270, guid: eadcaaa5af4f66c4f9cec86f47bdd7df,
+      type: 3}
+  - m_GUID: 5eccc0b78645cde428467e776caecd96
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_CLOTH
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 5706626063069599993, guid: 5eccc0b78645cde428467e776caecd96,
+      type: 3}
+    m_TargetAsset: {fileID: 5706626063069599993, guid: 5eccc0b78645cde428467e776caecd96,
+      type: 3}
+  - m_GUID: 7914d2bbe4bc0094c963cbb3e936e7c0
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_PANTS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4493770284166849967, guid: 7914d2bbe4bc0094c963cbb3e936e7c0,
+      type: 3}
+    m_TargetAsset: {fileID: 4493770284166849967, guid: 7914d2bbe4bc0094c963cbb3e936e7c0,
+      type: 3}
+  - m_GUID: 8a1980401247ac8419c5d9ebeef7cae6
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_RIGHT_SLEEVE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 3682391122474783870, guid: 8a1980401247ac8419c5d9ebeef7cae6,
+      type: 3}
+    m_TargetAsset: {fileID: 3682391122474783870, guid: 8a1980401247ac8419c5d9ebeef7cae6,
+      type: 3}
+  - m_GUID: 05380a44ae85aa346b7e879fc2b61410
+    m_Address: 01-PIXEL_CHAR_32px-HORNED_KNIGHT_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 05380a44ae85aa346b7e879fc2b61410, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 05380a44ae85aa346b7e879fc2b61410, type: 3}
+  - m_GUID: 585d5457e3c19ad4082e34c47f66aaea
+    m_Address: 01-PIXEL_CHAR_32px-HORNED_KNIGHT_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 585d5457e3c19ad4082e34c47f66aaea, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 585d5457e3c19ad4082e34c47f66aaea, type: 3}
+  - m_GUID: 955aa1d858535e14c9f1f534449818be
+    m_Address: 01-PIXEL_CHAR_32px-HORNED_KNIGHT_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 955aa1d858535e14c9f1f534449818be, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 955aa1d858535e14c9f1f534449818be, type: 3}
+  - m_GUID: d3ba95fe96a92964b981aaa597852006
+    m_Address: 01-PIXEL_CHAR_32px-HORNED_KNIGHT_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: d3ba95fe96a92964b981aaa597852006, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: d3ba95fe96a92964b981aaa597852006, type: 3}
+  - m_GUID: f9f82b8e54c503849af3736bef3a19dd
+    m_Address: 01-PIXEL_CHAR_32px-HORNED_KNIGHT_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: f9f82b8e54c503849af3736bef3a19dd, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: f9f82b8e54c503849af3736bef3a19dd, type: 3}
+  - m_GUID: 6edfc0abf701947428ec7bdc235a3903
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 6edfc0abf701947428ec7bdc235a3903, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 6edfc0abf701947428ec7bdc235a3903, type: 3}
+  - m_GUID: 7bb55935f7e640b4098c3588b5cce7eb
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_HAT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 7bb55935f7e640b4098c3588b5cce7eb, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 7bb55935f7e640b4098c3588b5cce7eb, type: 3}
+  - m_GUID: 270cba7021763e64aa0f466c687de06d
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 270cba7021763e64aa0f466c687de06d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 270cba7021763e64aa0f466c687de06d, type: 3}
+  - m_GUID: 69d131789128cda43bee5f7e4d3103db
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 69d131789128cda43bee5f7e4d3103db, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 69d131789128cda43bee5f7e4d3103db, type: 3}
+  - m_GUID: ed4b1dc1f5c94dc43aee42b2bd0d4bf4
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: ed4b1dc1f5c94dc43aee42b2bd0d4bf4, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ed4b1dc1f5c94dc43aee42b2bd0d4bf4, type: 3}
+  - m_GUID: 58b28920ed359c94d8789503219002c1
+    m_Address: 02-PIXEL_CHAR_32px-WIZARD_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 58b28920ed359c94d8789503219002c1, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 58b28920ed359c94d8789503219002c1, type: 3}
+  - m_GUID: 4f81ceb318d9b1442a926a904981327c
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 4f81ceb318d9b1442a926a904981327c, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 4f81ceb318d9b1442a926a904981327c, type: 3}
+  - m_GUID: 8740220a09f2b0a4f8c56f5b1611d571
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_HAT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 8740220a09f2b0a4f8c56f5b1611d571, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 8740220a09f2b0a4f8c56f5b1611d571, type: 3}
+  - m_GUID: 6d6c8d6031f162b4ca6046f8b835c0dc
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 6d6c8d6031f162b4ca6046f8b835c0dc, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 6d6c8d6031f162b4ca6046f8b835c0dc, type: 3}
+  - m_GUID: 331835430b9bcf14dbd66e4b8ed7858f
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 331835430b9bcf14dbd66e4b8ed7858f, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 331835430b9bcf14dbd66e4b8ed7858f, type: 3}
+  - m_GUID: 91de5f0326946b2458d954a3623048ea
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 91de5f0326946b2458d954a3623048ea, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 91de5f0326946b2458d954a3623048ea, type: 3}
+  - m_GUID: 18066f54e318cd84bafaa51584419e8d
+    m_Address: 04-PIXEL_CHAR_32px-PIRATE_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 18066f54e318cd84bafaa51584419e8d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 18066f54e318cd84bafaa51584419e8d, type: 3}
+  - m_GUID: 95cefa6339e9be349b274171824f1a78
+    m_Address: 05-PIXEL_CHAR_32px-NINJA_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 95cefa6339e9be349b274171824f1a78, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 95cefa6339e9be349b274171824f1a78, type: 3}
+  - m_GUID: 55f16466407a510498d04e6d80e5cddf
+    m_Address: 05-PIXEL_CHAR_32px-NINJA_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 55f16466407a510498d04e6d80e5cddf, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 55f16466407a510498d04e6d80e5cddf, type: 3}
+  - m_GUID: cb21ba42a58b5f343abc90d0de200077
+    m_Address: 05-PIXEL_CHAR_32px-NINJA_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: cb21ba42a58b5f343abc90d0de200077, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: cb21ba42a58b5f343abc90d0de200077, type: 3}
+  - m_GUID: ba60a71a36b8e1240aa42e7a3adc7b94
+    m_Address: 05-PIXEL_CHAR_32px-NINJA_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: ba60a71a36b8e1240aa42e7a3adc7b94, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ba60a71a36b8e1240aa42e7a3adc7b94, type: 3}
+  - m_GUID: 822212806838e95449d070948334e6fd
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 822212806838e95449d070948334e6fd, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 822212806838e95449d070948334e6fd, type: 3}
+  - m_GUID: 498c5583cfb1a5746ac96d7de01ac29c
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_HAT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 498c5583cfb1a5746ac96d7de01ac29c, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 498c5583cfb1a5746ac96d7de01ac29c, type: 3}
+  - m_GUID: ecf1b614e3edf9542894167e19b97236
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: ecf1b614e3edf9542894167e19b97236, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ecf1b614e3edf9542894167e19b97236, type: 3}
+  - m_GUID: 0de9ac57e7339b74d9e8f630bba9fc76
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 0de9ac57e7339b74d9e8f630bba9fc76, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 0de9ac57e7339b74d9e8f630bba9fc76, type: 3}
+  - m_GUID: c1f2fb5b83822dc40b49967d05bc58c5
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: c1f2fb5b83822dc40b49967d05bc58c5, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: c1f2fb5b83822dc40b49967d05bc58c5, type: 3}
+  - m_GUID: 832c098a0ed319047b65e47a93975961
+    m_Address: 03-PIXEL_CHAR_32px-COWBOY_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 832c098a0ed319047b65e47a93975961, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 832c098a0ed319047b65e47a93975961, type: 3}
+  - m_GUID: 396983fcb531676479261d9a94e38374
+    m_Address: 06-PIXEL_CHAR_32px-KARATE_FACIAL_HAIR copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 396983fcb531676479261d9a94e38374, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 396983fcb531676479261d9a94e38374, type: 3}
+  - m_GUID: a8e48368c3cb1674480fba77e81a82a1
+    m_Address: 06-PIXEL_CHAR_32px-KARATE_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: a8e48368c3cb1674480fba77e81a82a1, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a8e48368c3cb1674480fba77e81a82a1, type: 3}
+  - m_GUID: 9d745f287220299488818ca757a5571d
+    m_Address: 06-PIXEL_CHAR_32px-KARATE_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 9d745f287220299488818ca757a5571d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 9d745f287220299488818ca757a5571d, type: 3}
+  - m_GUID: c4aabce4dae375f44974e9dd27a644ee
+    m_Address: 06-PIXEL_CHAR_32px-KARATE_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: c4aabce4dae375f44974e9dd27a644ee, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: c4aabce4dae375f44974e9dd27a644ee, type: 3}
+  - m_GUID: 0e40e8d69c549234688bf6686aa58f42
+    m_Address: 06-PIXEL_CHAR_32px-LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 0e40e8d69c549234688bf6686aa58f42, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 0e40e8d69c549234688bf6686aa58f42, type: 3}
+  - m_GUID: 3d988b60bebba554f972454ad4c36f25
+    m_Address: 06-PIXEL_CHAR_32px-TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 3d988b60bebba554f972454ad4c36f25, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 3d988b60bebba554f972454ad4c36f25, type: 3}
+  - m_GUID: 6d1f883a79aac1640b0a9b6bf7707acd
+    m_Address: 07-PIXEL_CHAR_32px-ASSASSIN_HAT
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 6d1f883a79aac1640b0a9b6bf7707acd, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 6d1f883a79aac1640b0a9b6bf7707acd, type: 3}
+  - m_GUID: 52d1320dfd7a78b46af48dbf5d5e37f4
+    m_Address: 07-PIXEL_CHAR_32px-ASSASSIN_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 52d1320dfd7a78b46af48dbf5d5e37f4, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 52d1320dfd7a78b46af48dbf5d5e37f4, type: 3}
+  - m_GUID: 4ca6baec297612a4da838101452e2a2c
+    m_Address: 07-PIXEL_CHAR_32px-ASSASSIN_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 4ca6baec297612a4da838101452e2a2c, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 4ca6baec297612a4da838101452e2a2c, type: 3}
+  - m_GUID: 947fd12174eab0f40979a3d9f74665ae
+    m_Address: 07-PIXEL_CHAR_32px-ASSASSIN_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 947fd12174eab0f40979a3d9f74665ae, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 947fd12174eab0f40979a3d9f74665ae, type: 3}
+  - m_GUID: 47fd48b91bdb83345ac043a5d0551642
+    m_Address: 07-PIXEL_CHAR_32px-ASSASSIN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 47fd48b91bdb83345ac043a5d0551642, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 47fd48b91bdb83345ac043a5d0551642, type: 3}
+  - m_GUID: 15a92fbc585a9f948b363cc655444a52
+    m_Address: 08-PIXEL_CHAR_32px-SHAMAN_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 15a92fbc585a9f948b363cc655444a52, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 15a92fbc585a9f948b363cc655444a52, type: 3}
+  - m_GUID: d265f4ff1e849874aa51df1baef37128
+    m_Address: 08-PIXEL_CHAR_32px-SHAMAN_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: d265f4ff1e849874aa51df1baef37128, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: d265f4ff1e849874aa51df1baef37128, type: 3}
+  - m_GUID: c108bd97fb12b374581104c0738cd482
+    m_Address: 08-PIXEL_CHAR_32px-SHAMAN_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: c108bd97fb12b374581104c0738cd482, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: c108bd97fb12b374581104c0738cd482, type: 3}
+  - m_GUID: b143513230dfabe4580c94564bc7833f
+    m_Address: 08-PIXEL_CHAR_32px-SHAMAN_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: b143513230dfabe4580c94564bc7833f, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: b143513230dfabe4580c94564bc7833f, type: 3}
+  - m_GUID: c0370330d4f037b4c84df39a98933857
+    m_Address: 08-PIXEL_CHAR_32px-SHAMAN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: c0370330d4f037b4c84df39a98933857, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: c0370330d4f037b4c84df39a98933857, type: 3}
+  - m_GUID: 9e27ae4411ec7394b960df553f41df90
+    m_Address: 10-PIXEL_CHAR_32px-CYBORG_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 9e27ae4411ec7394b960df553f41df90, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 9e27ae4411ec7394b960df553f41df90, type: 3}
+  - m_GUID: 5affe5c9a0e76d245a47628646b598cd
+    m_Address: 10-PIXEL_CHAR_32px-CYBORG_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 5affe5c9a0e76d245a47628646b598cd, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 5affe5c9a0e76d245a47628646b598cd, type: 3}
+  - m_GUID: 3c53c93defc0c2a44a70fdefd71d42d1
+    m_Address: 10-PIXEL_CHAR_32px-CYBORG_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 3c53c93defc0c2a44a70fdefd71d42d1, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 3c53c93defc0c2a44a70fdefd71d42d1, type: 3}
+  - m_GUID: 09377ae16554694448aa9ca728b7408d
+    m_Address: 10-PIXEL_CHAR_32px-CYBORG_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 09377ae16554694448aa9ca728b7408d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 09377ae16554694448aa9ca728b7408d, type: 3}
+  - m_GUID: 975370b14ad528f4bbcb45a75a48b76a
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_SUIT_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 975370b14ad528f4bbcb45a75a48b76a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 975370b14ad528f4bbcb45a75a48b76a, type: 3}
+  - m_GUID: 89197219bf3724b4dbd17b9a1b0e019f
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_SUIT_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 89197219bf3724b4dbd17b9a1b0e019f, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 89197219bf3724b4dbd17b9a1b0e019f, type: 3}
+  - m_GUID: d1d002f1b8995134fa08e6dea2089add
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_SUIT_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: d1d002f1b8995134fa08e6dea2089add, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: d1d002f1b8995134fa08e6dea2089add, type: 3}
+  - m_GUID: 2e5c5209869504e408644e060baab3a0
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_SUIT_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 2e5c5209869504e408644e060baab3a0, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 2e5c5209869504e408644e060baab3a0, type: 3}
+  - m_GUID: 5d0893d3f75edf2438cd02dfbbb3500a
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_SUIT_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 5d0893d3f75edf2438cd02dfbbb3500a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 5d0893d3f75edf2438cd02dfbbb3500a, type: 3}
+  - m_GUID: db047e54ea96f4d48b4684849369d477
+    m_Address: 14-PIXEL_CHAR_32px-ROMAN_SOLDIER_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: db047e54ea96f4d48b4684849369d477, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: db047e54ea96f4d48b4684849369d477, type: 3}
+  - m_GUID: 3d4c46dd9d9553246b8cffed4b5df4f6
+    m_Address: 14-PIXEL_CHAR_32px-ROMAN_SOLDIER_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 3d4c46dd9d9553246b8cffed4b5df4f6, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 3d4c46dd9d9553246b8cffed4b5df4f6, type: 3}
+  - m_GUID: 4c0e30ab19111054aac8bd20130a10dd
+    m_Address: 14-PIXEL_CHAR_32px-ROMAN_SOLDIER_RIGHT_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 4c0e30ab19111054aac8bd20130a10dd, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 4c0e30ab19111054aac8bd20130a10dd, type: 3}
+  - m_GUID: a62054cca9838ff4f9c680d785013252
+    m_Address: 14-PIXEL_CHAR_32px-ROMAN_SOLDIER_RIGHT_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: a62054cca9838ff4f9c680d785013252, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a62054cca9838ff4f9c680d785013252, type: 3}
+  - m_GUID: 3ef3aa47722e79a44848da462b26588a
+    m_Address: 12-PIXEL_CHAR_32px-WORKING_MAN_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 3ef3aa47722e79a44848da462b26588a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 3ef3aa47722e79a44848da462b26588a, type: 3}
+  - m_GUID: f3e03410b10a9ce4dabdb98f080869ef
+    m_Address: 12-PIXEL_CHAR_32px-WORKING_MAN_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: f3e03410b10a9ce4dabdb98f080869ef, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: f3e03410b10a9ce4dabdb98f080869ef, type: 3}
+  - m_GUID: 00f8d6837c26f9c44a6aced12363da14
+    m_Address: 12-PIXEL_CHAR_32px-WORKING_MAN_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 00f8d6837c26f9c44a6aced12363da14, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 00f8d6837c26f9c44a6aced12363da14, type: 3}
+  - m_GUID: 9388af7b23048594990d8cff8569e3cc
+    m_Address: 12-PIXEL_CHAR_32px-WORKING_MAN_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 9388af7b23048594990d8cff8569e3cc, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 9388af7b23048594990d8cff8569e3cc, type: 3}
+  - m_GUID: bcaff6748ed07774d963b3f1c77cf2d6
+    m_Address: 13-PIXEL_CHAR_32px-ALIEN_SUIT_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: bcaff6748ed07774d963b3f1c77cf2d6, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: bcaff6748ed07774d963b3f1c77cf2d6, type: 3}
+  - m_GUID: a09292366a6e89e49aba5cd46d108c16
+    m_Address: 13-PIXEL_CHAR_32px-ALIEN_SUIT_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: a09292366a6e89e49aba5cd46d108c16, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a09292366a6e89e49aba5cd46d108c16, type: 3}
+  - m_GUID: 9d6ed8c6d3754d44db20f4a69dd61449
+    m_Address: 13-PIXEL_SUIT_32px-ALIEN_SUIT_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 9d6ed8c6d3754d44db20f4a69dd61449, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 9d6ed8c6d3754d44db20f4a69dd61449, type: 3}
+  - m_GUID: 30ed151d1a413fc4b9154857c458a439
+    m_Address: 09-PIXEL_CHAR_32px-GLADIATOR_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 30ed151d1a413fc4b9154857c458a439, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 30ed151d1a413fc4b9154857c458a439, type: 3}
+  - m_GUID: 7edb08a224204b947b73024d775b9398
+    m_Address: 09-PIXEL_CHAR_32px-GLADIATOR_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 7edb08a224204b947b73024d775b9398, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 7edb08a224204b947b73024d775b9398, type: 3}
+  - m_GUID: 3de2e7082d8d9fc47a6e0c6ffbc8c9fa
+    m_Address: 09-PIXEL_CHAR_32px-GLADIATOR_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 3de2e7082d8d9fc47a6e0c6ffbc8c9fa, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 3de2e7082d8d9fc47a6e0c6ffbc8c9fa, type: 3}
+  - m_GUID: 5fe23d4b30aa29c438a4d93dc45ceecc
+    m_Address: 09-PIXEL_CHAR_32px-GLADIATOR_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 5fe23d4b30aa29c438a4d93dc45ceecc, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 5fe23d4b30aa29c438a4d93dc45ceecc, type: 3}
+  - m_GUID: 09ad2c54fa2485247a0d3c739539879d
+    m_Address: 09-PIXEL_CHAR_32px-GLADIATOR_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 09ad2c54fa2485247a0d3c739539879d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 09ad2c54fa2485247a0d3c739539879d, type: 3}
+  - m_GUID: 8c7f57e30bb4b4142b58dc29d0dc3a9c
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 8c7f57e30bb4b4142b58dc29d0dc3a9c, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 8c7f57e30bb4b4142b58dc29d0dc3a9c, type: 3}
+  - m_GUID: b76412fa06c21874c80e78cbef21af25
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: b76412fa06c21874c80e78cbef21af25, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: b76412fa06c21874c80e78cbef21af25, type: 3}
+  - m_GUID: a0eb4ab0805ac8d45ae334e2c4b1e63f
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: a0eb4ab0805ac8d45ae334e2c4b1e63f, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a0eb4ab0805ac8d45ae334e2c4b1e63f, type: 3}
+  - m_GUID: 116d05ea960c9814db24cbe0ffdab175
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 116d05ea960c9814db24cbe0ffdab175, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 116d05ea960c9814db24cbe0ffdab175, type: 3}
+  - m_GUID: bb1ba0ae6a34e134a92cd19fc96b1479
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: bb1ba0ae6a34e134a92cd19fc96b1479, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: bb1ba0ae6a34e134a92cd19fc96b1479, type: 3}
+  - m_GUID: 774b4c68c123b5647a175273fdbd0498
+    m_Address: 15-PIXEL_CHAR_32px-VIKING_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 774b4c68c123b5647a175273fdbd0498, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 774b4c68c123b5647a175273fdbd0498, type: 3}
+  - m_GUID: 961063d1876f8ea469dc3ba57339698f
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 961063d1876f8ea469dc3ba57339698f, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 961063d1876f8ea469dc3ba57339698f, type: 3}
+  - m_GUID: b675a167f804d8e4e86f73158487637b
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: b675a167f804d8e4e86f73158487637b, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: b675a167f804d8e4e86f73158487637b, type: 3}
+  - m_GUID: 049c3cc7d08741e43b8057ca98f01657
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 049c3cc7d08741e43b8057ca98f01657, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 049c3cc7d08741e43b8057ca98f01657, type: 3}
+  - m_GUID: db4a1dc85aab47c42905965b75ce1166
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: db4a1dc85aab47c42905965b75ce1166, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: db4a1dc85aab47c42905965b75ce1166, type: 3}
+  - m_GUID: fb53509e03ec88b4a90f7ee0f946a106
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: fb53509e03ec88b4a90f7ee0f946a106, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: fb53509e03ec88b4a90f7ee0f946a106, type: 3}
+  - m_GUID: c3807bfd24ecbda4c817ae61b49b72ed
+    m_Address: 16-PIXEL_CHAR_32px-SHOGUN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: c3807bfd24ecbda4c817ae61b49b72ed, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: c3807bfd24ecbda4c817ae61b49b72ed, type: 3}
+  - m_GUID: 9866baee64b18e1458acb7da39a1602c
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 9866baee64b18e1458acb7da39a1602c, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 9866baee64b18e1458acb7da39a1602c, type: 3}
+  - m_GUID: 8137957a18953fa4e994087aff2cdc87
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 8137957a18953fa4e994087aff2cdc87, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 8137957a18953fa4e994087aff2cdc87, type: 3}
+  - m_GUID: f5c2b7aa8c73d6147921c48ffd8d8fd4
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: f5c2b7aa8c73d6147921c48ffd8d8fd4, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: f5c2b7aa8c73d6147921c48ffd8d8fd4, type: 3}
+  - m_GUID: 00b6f5ef84697a84b8f163465f07fe3c
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 00b6f5ef84697a84b8f163465f07fe3c, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 00b6f5ef84697a84b8f163465f07fe3c, type: 3}
+  - m_GUID: 0da2219ce8bdb90489f5f10a0bec6721
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 0da2219ce8bdb90489f5f10a0bec6721, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 0da2219ce8bdb90489f5f10a0bec6721, type: 3}
+  - m_GUID: db31667848e399547b7b4d4ca3ce1428
+    m_Address: 17-PIXEL_CHAR_32px-SARACEN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: db31667848e399547b7b4d4ca3ce1428, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: db31667848e399547b7b4d4ca3ce1428, type: 3}
+  - m_GUID: 13c61b3d503d39e44bed28497255967f
+    m_Address: 18-PIXEL_CHAR_32px-MONK_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 13c61b3d503d39e44bed28497255967f, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 13c61b3d503d39e44bed28497255967f, type: 3}
+  - m_GUID: a707a11aa19d1b4479a2559ae75ccf77
+    m_Address: 18-PIXEL_CHAR_32px-MONK_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: a707a11aa19d1b4479a2559ae75ccf77, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a707a11aa19d1b4479a2559ae75ccf77, type: 3}
+  - m_GUID: 8ec52cf006c761548a67593311e4eef5
+    m_Address: 18-PIXEL_CHAR_32px-MONK_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 8ec52cf006c761548a67593311e4eef5, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 8ec52cf006c761548a67593311e4eef5, type: 3}
+  - m_GUID: 3bd62d9635c828b44a202c48669b8498
+    m_Address: 18-PIXEL_CHAR_32px-MONK_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 3bd62d9635c828b44a202c48669b8498, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 3bd62d9635c828b44a202c48669b8498, type: 3}
+  - m_GUID: e2eab2f218d42d14c8c88eb8b900d141
+    m_Address: 18-PIXEL_CHAR_32px-MONK_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: e2eab2f218d42d14c8c88eb8b900d141, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: e2eab2f218d42d14c8c88eb8b900d141, type: 3}
+  - m_GUID: 85768f055f3099a43b58ac255fff3d72
+    m_Address: 18-PIXEL_CHAR_32px-MONK_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 85768f055f3099a43b58ac255fff3d72, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 85768f055f3099a43b58ac255fff3d72, type: 3}
+  - m_GUID: 722d2cc4c257f9347b11c41ac3eef9ad
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 722d2cc4c257f9347b11c41ac3eef9ad, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 722d2cc4c257f9347b11c41ac3eef9ad, type: 3}
+  - m_GUID: ba2714b617f4ba54a919019ec0605c6b
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: ba2714b617f4ba54a919019ec0605c6b, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ba2714b617f4ba54a919019ec0605c6b, type: 3}
+  - m_GUID: 4cd1142ef4c71004e9bb556cfe77425f
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 4cd1142ef4c71004e9bb556cfe77425f, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 4cd1142ef4c71004e9bb556cfe77425f, type: 3}
+  - m_GUID: 31cd9618fd4134440bad31d1d6656313
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 31cd9618fd4134440bad31d1d6656313, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 31cd9618fd4134440bad31d1d6656313, type: 3}
+  - m_GUID: cdde19c7f760c684bb3109564e874607
+    m_Address: 20-PIXEL_CHAR_32px-ZOMBIE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: cdde19c7f760c684bb3109564e874607, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: cdde19c7f760c684bb3109564e874607, type: 3}
+  - m_GUID: f6a0bfb2783b9ea4da8f6bc79e528abb
+    m_Address: 20-PIXEL_CHAR_32px-ZOMBIE_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: f6a0bfb2783b9ea4da8f6bc79e528abb, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: f6a0bfb2783b9ea4da8f6bc79e528abb, type: 3}
+  - m_GUID: a0bdbc9233753e245b3e23f5616cd6a7
+    m_Address: 20-PIXEL_CHAR_32px-ZOMBIE_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: a0bdbc9233753e245b3e23f5616cd6a7, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a0bdbc9233753e245b3e23f5616cd6a7, type: 3}
+  - m_GUID: 1d95839913e16c947a3754225de10d25
+    m_Address: 20-PIXEL_CHAR_32px-ZOMBIE_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 1d95839913e16c947a3754225de10d25, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 1d95839913e16c947a3754225de10d25, type: 3}
+  - m_GUID: 4931326579c047844ac562db84c722aa
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 4931326579c047844ac562db84c722aa, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 4931326579c047844ac562db84c722aa, type: 3}
+  - m_GUID: 4f559b3e1bb5b544682499c1db8d658d
+    m_Address: 23-PIXEL_CHAR_32px-GRIM_REAPER_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 4f559b3e1bb5b544682499c1db8d658d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 4f559b3e1bb5b544682499c1db8d658d, type: 3}
+  - m_GUID: 8626516a8eef675408829695765b8c26
+    m_Address: 23-PIXEL_CHAR_32px-GRIM_REAPER_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 8626516a8eef675408829695765b8c26, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 8626516a8eef675408829695765b8c26, type: 3}
+  - m_GUID: 68703fb965e5d1f4dbccebf0defd94aa
+    m_Address: 23-PIXEL_CHAR_32px-GRIM_REAPER_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 68703fb965e5d1f4dbccebf0defd94aa, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 68703fb965e5d1f4dbccebf0defd94aa, type: 3}
+  - m_GUID: 2daf157514aa25e48bad1f9ac2baa0c3
+    m_Address: 23-PIXEL_CHAR_32px-GRIM_REAPER_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 2daf157514aa25e48bad1f9ac2baa0c3, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 2daf157514aa25e48bad1f9ac2baa0c3, type: 3}
+  - m_GUID: 925879682d1f38345b34777dfac65863
+    m_Address: 23-PIXEL_CHAR_32px-GRIM_REAPER_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 925879682d1f38345b34777dfac65863, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 925879682d1f38345b34777dfac65863, type: 3}
+  - m_GUID: c0076f96b5423fa4fa8fc7934f967246
+    m_Address: 24-PIXEL_CHAR_32px-JACK_O_LANTERN_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: c0076f96b5423fa4fa8fc7934f967246, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: c0076f96b5423fa4fa8fc7934f967246, type: 3}
+  - m_GUID: e51a0a750d3d6cb44b339fbcb9e6301a
+    m_Address: 24-PIXEL_CHAR_32px-JACK_O_LANTERN_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: e51a0a750d3d6cb44b339fbcb9e6301a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: e51a0a750d3d6cb44b339fbcb9e6301a, type: 3}
+  - m_GUID: 8cbae2c2b6c61e142ab0667edbbb74ce
+    m_Address: 24-PIXEL_CHAR_32px-JACK_O_LANTERN_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 8cbae2c2b6c61e142ab0667edbbb74ce, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 8cbae2c2b6c61e142ab0667edbbb74ce, type: 3}
+  - m_GUID: e0f4083767793ae469cd39c7bf38d1d6
+    m_Address: 24-PIXEL_CHAR_32px-JACK_O_LANTERN_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: e0f4083767793ae469cd39c7bf38d1d6, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: e0f4083767793ae469cd39c7bf38d1d6, type: 3}
+  - m_GUID: d77c31ae8806efa4095ef3afb28708df
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_FACIAL_HAIR
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: d77c31ae8806efa4095ef3afb28708df, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: d77c31ae8806efa4095ef3afb28708df, type: 3}
+  - m_GUID: ecbae189ac7ee8e40991780669312469
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: ecbae189ac7ee8e40991780669312469, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ecbae189ac7ee8e40991780669312469, type: 3}
+  - m_GUID: 5c59d9a9f4943e843a94d98bcc63d63a
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 5c59d9a9f4943e843a94d98bcc63d63a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 5c59d9a9f4943e843a94d98bcc63d63a, type: 3}
+  - m_GUID: 14ce083955fbe244fa930931fb714c67
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 14ce083955fbe244fa930931fb714c67, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 14ce083955fbe244fa930931fb714c67, type: 3}
+  - m_GUID: 63295a4e53cde2348a36132c65991989
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 63295a4e53cde2348a36132c65991989, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 63295a4e53cde2348a36132c65991989, type: 3}
+  - m_GUID: 54986d327f4c71d428cf3e3e6476a9ae
+    m_Address: 25-PIXEL_CHAR_32px-EGYPTIAN_WARRIOR_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 54986d327f4c71d428cf3e3e6476a9ae, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 54986d327f4c71d428cf3e3e6476a9ae, type: 3}
+  - m_GUID: 1ecd03142d258e44fb04c45c235a645c
+    m_Address: 10-PIXEL_CHAR_32px-CYBORG_HELMET
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 1ecd03142d258e44fb04c45c235a645c, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 1ecd03142d258e44fb04c45c235a645c, type: 3}
+  - m_GUID: 68a35c5f387132f458ad0948337af586
+    m_Address: 05-PIXEL_CHAR_32px-NINJA_WEAPON
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 68a35c5f387132f458ad0948337af586, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 68a35c5f387132f458ad0948337af586, type: 3}
+  - m_GUID: ab76171755b50c54f8af15ca20f684f9
+    m_Address: 14-PIXEL_CHAR_32px-ROMAN_SOLDIER_WEAPONpng
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: ab76171755b50c54f8af15ca20f684f9, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ab76171755b50c54f8af15ca20f684f9, type: 3}
+  - m_GUID: 654090a4dc56368478c080eda0210700
+    m_Address: 13-PIXEL_CHAR_32px-ALIEN_SUIT_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 654090a4dc56368478c080eda0210700, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 654090a4dc56368478c080eda0210700, type: 3}
+  - m_GUID: 737985c4e6103ed438a4c7d2cbe23212
+    m_Address: 00-PIXEL_CHAR_32px-HEAD copy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 737985c4e6103ed438a4c7d2cbe23212, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 737985c4e6103ed438a4c7d2cbe23212, type: 3}
+  - m_GUID: b632e81b10c025646af72247a452c76e
+    m_Address: 00-PIXEL_CHAR_32px-MALE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: b632e81b10c025646af72247a452c76e, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: b632e81b10c025646af72247a452c76e, type: 3}
+  - m_GUID: ca8d966c10dd4e242aab73a331fcceee
+    m_Address: 00-PIXEL_CHAR_32px-MALE_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: ca8d966c10dd4e242aab73a331fcceee, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ca8d966c10dd4e242aab73a331fcceee, type: 3}
+  - m_GUID: 836cfc915edcf874fa1961a983dcc70b
+    m_Address: 00-PIXEL_CHAR_32px-RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 836cfc915edcf874fa1961a983dcc70b, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 836cfc915edcf874fa1961a983dcc70b, type: 3}
+  - m_GUID: 87393e6ee72726443aefad8cfd09baa7
+    m_Address: 14-PIXEL_CHAR_32px-ALIEN_BODY_BASE_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 87393e6ee72726443aefad8cfd09baa7, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 87393e6ee72726443aefad8cfd09baa7, type: 3}
+  - m_GUID: 3eb29f92b4511e84ba8f9ea4347121da
+    m_Address: 14-PIXEL_CHAR_32px-ALIEN_BODY_BASE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 3eb29f92b4511e84ba8f9ea4347121da, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 3eb29f92b4511e84ba8f9ea4347121da, type: 3}
+  - m_GUID: 9209109a64c0be346a00fffe80c164a0
+    m_Address: 14-PIXEL_CHAR_32px-ALIEN_BODY_BASE_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 9209109a64c0be346a00fffe80c164a0, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 9209109a64c0be346a00fffe80c164a0, type: 3}
+  - m_GUID: ba2820ad53bb5684f990689a57da27fc
+    m_Address: 14-PIXEL_CHAR_32px-ALIEN_BODY_BASE_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: ba2820ad53bb5684f990689a57da27fc, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ba2820ad53bb5684f990689a57da27fc, type: 3}
+  - m_GUID: a3a17e5de98a8824ca80ea65e90c763a
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: a3a17e5de98a8824ca80ea65e90c763a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a3a17e5de98a8824ca80ea65e90c763a, type: 3}
+  - m_GUID: 8c9baa6d1a162124b808b0ddc50fc467
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 8c9baa6d1a162124b808b0ddc50fc467, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 8c9baa6d1a162124b808b0ddc50fc467, type: 3}
+  - m_GUID: 2b03f8d6773338e4f8bca6e43e95cbff
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 2b03f8d6773338e4f8bca6e43e95cbff, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 2b03f8d6773338e4f8bca6e43e95cbff, type: 3}
+  - m_GUID: 1971a5140be1860468e313e5bed12a44
+    m_Address: 11-PIXEL_CHAR_32px-CLOWN_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 1971a5140be1860468e313e5bed12a44, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 1971a5140be1860468e313e5bed12a44, type: 3}
+  - m_GUID: 664bdb7936957584cb269bb09707a357
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 664bdb7936957584cb269bb09707a357, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 664bdb7936957584cb269bb09707a357, type: 3}
+  - m_GUID: 2cef10a596962fd45a67550f4f1751a2
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 2cef10a596962fd45a67550f4f1751a2, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 2cef10a596962fd45a67550f4f1751a2, type: 3}
+  - m_GUID: b56a2cdd745a8274195ebb5fb48fe792
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: b56a2cdd745a8274195ebb5fb48fe792, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: b56a2cdd745a8274195ebb5fb48fe792, type: 3}
+  - m_GUID: 10693652a4199c543b5bdf737db15f67
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 10693652a4199c543b5bdf737db15f67, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 10693652a4199c543b5bdf737db15f67, type: 3}
+  - m_GUID: 41b9cb6f80a069a489ef848d86bd075a
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 41b9cb6f80a069a489ef848d86bd075a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 41b9cb6f80a069a489ef848d86bd075a, type: 3}
+  - m_GUID: 7766023d6a982b4499e7feef223f5d66
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 7766023d6a982b4499e7feef223f5d66, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 7766023d6a982b4499e7feef223f5d66, type: 3}
+  - m_GUID: 832015deed2e51a4bb4a379502c54560
+    m_Address: 22-PIXEL_CHAR_32px-DEVIL_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 832015deed2e51a4bb4a379502c54560, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 832015deed2e51a4bb4a379502c54560, type: 3}
+  - m_GUID: 746a319b48ca7c84eb10407a2c826b4e
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_BASE_BODY-HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 746a319b48ca7c84eb10407a2c826b4e, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 746a319b48ca7c84eb10407a2c826b4e, type: 3}
+  - m_GUID: 34aebf894e8fef04ead77aa2097a7f48
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_BASE_BODY-RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 34aebf894e8fef04ead77aa2097a7f48, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 34aebf894e8fef04ead77aa2097a7f48, type: 3}
+  - m_GUID: 6311cfa61cb68844b9229e41a42ec18b
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_BASE_BODY-TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 6311cfa61cb68844b9229e41a42ec18b, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 6311cfa61cb68844b9229e41a42ec18b, type: 3}
+  - m_GUID: a7d107da43f91804a860e525b81b018e
+    m_Address: 19-PIXEL_CHAR_32px-VAMPIRE_BASE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: a7d107da43f91804a860e525b81b018e, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: a7d107da43f91804a860e525b81b018e, type: 3}
+  - m_GUID: 52847536eafc0ee4793f753d0f153642
+    m_Address: 20-PIXEL_CHAR_32px-BASE_BODY-ZOMBIE_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 52847536eafc0ee4793f753d0f153642, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 52847536eafc0ee4793f753d0f153642, type: 3}
+  - m_GUID: 33383b429111a4449baae0d5dca1cdbb
+    m_Address: 20-PIXEL_CHAR_32px-BASE_BODY-ZOMBIE_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 33383b429111a4449baae0d5dca1cdbb, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 33383b429111a4449baae0d5dca1cdbb, type: 3}
+  - m_GUID: 9d34da46738b4a946b452febc98ca404
+    m_Address: 20-PIXEL_CHAR_32px-BASE_BODY-ZOMBIE_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 9d34da46738b4a946b452febc98ca404, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 9d34da46738b4a946b452febc98ca404, type: 3}
+  - m_GUID: 8c0aea65bd3eeb74a99a567bdeb34094
+    m_Address: 20-PIXEL_CHAR_32px-BASE_BODY-ZOMBIE_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 8c0aea65bd3eeb74a99a567bdeb34094, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 8c0aea65bd3eeb74a99a567bdeb34094, type: 3}
+  - m_GUID: 86fc5d7adbf646048855c907c887a52a
+    m_Address: 23-PIXEL_CHAR_32px-BODY_BASE-GRIM_REAPER_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 86fc5d7adbf646048855c907c887a52a, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 86fc5d7adbf646048855c907c887a52a, type: 3}
+  - m_GUID: 7b5c8ab2ab741ce4b87ba7ba735f2935
+    m_Address: 23-PIXEL_CHAR_32px-BODY_BASE-GRIM_REAPER_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 7b5c8ab2ab741ce4b87ba7ba735f2935, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 7b5c8ab2ab741ce4b87ba7ba735f2935, type: 3}
+  - m_GUID: 98c281be7ef2fae4fbff232edceed385
+    m_Address: 23-PIXEL_CHAR_32px-BODY_BASE-GRIM_REAPER_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 98c281be7ef2fae4fbff232edceed385, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 98c281be7ef2fae4fbff232edceed385, type: 3}
+  - m_GUID: c6c101184ea6baf4f9306ac5b278afc1
+    m_Address: 23-PIXEL_CHAR_32px-BODY_BASE-GRIM_REAPER_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: c6c101184ea6baf4f9306ac5b278afc1, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: c6c101184ea6baf4f9306ac5b278afc1, type: 3}
+  - m_GUID: c8f5919072fa6604cb31a519ed71650c
+    m_Address: 24-PIXEL_CHAR_32px-BASE_BODY-JACK_O_LANTERN_HEAD
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: c8f5919072fa6604cb31a519ed71650c, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: c8f5919072fa6604cb31a519ed71650c, type: 3}
+  - m_GUID: 996e80ffd7169054fb93253eb646b121
+    m_Address: 24-PIXEL_CHAR_32px-BASE_BODY-JACK_O_LANTERN_LEG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 996e80ffd7169054fb93253eb646b121, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 996e80ffd7169054fb93253eb646b121, type: 3}
+  - m_GUID: f061219f0360aba449c761133b12911e
+    m_Address: 24-PIXEL_CHAR_32px-BASE_BODY-JACK_O_LANTERN_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: f061219f0360aba449c761133b12911e, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: f061219f0360aba449c761133b12911e, type: 3}
+  - m_GUID: 251bf830389a7bf47a61f54a08f378ac
+    m_Address: 24-PIXEL_CHAR_32px-BASE_BODY-JACK_O_LANTERN_TORSO
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 251bf830389a7bf47a61f54a08f378ac, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 251bf830389a7bf47a61f54a08f378ac, type: 3}
+  - m_GUID: fbdca2fc39e5b644990ce7ec8270f84d
+    m_Address: 21-PIXEL_CHAR_32px-ELEMENTAL_STONE_GOLEM_RIGHT_ARM
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: fbdca2fc39e5b644990ce7ec8270f84d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: fbdca2fc39e5b644990ce7ec8270f84d, type: 3}
+  - m_GUID: cb615c6e7d08ce941bec181c37964751
+    m_Address: Pixies
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 4343727234628468602, guid: cb615c6e7d08ce941bec181c37964751,
+      type: 2}
+    m_TargetAsset: {fileID: 4343727234628468602, guid: cb615c6e7d08ce941bec181c37964751,
+      type: 2}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: adecd581067879947b39fb60ad54768d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0afbe52649fe0934e8608d46532b3549, type: 2}
+    - {fileID: 11400000, guid: 8fcb6dee2bf32b146a89f443b45c4021, type: 2}

@@ -1,0 +1,30 @@
+Character Data
+
+
+-id (string)
+-owner (string)
+-name (string)
+-stats
+ 	-hp (integer)
+	-attack (integer)
+	-defense (integer)
+	-speed (integer)
+-limbs
+	-headID (string)
+	-bodyID (string)
+	-armID (string)
+	-legID (string)
+-accessories
+	-clothID (string)
+	-facialHairID (string)
+	-helmetID (string)
+	-pantsID (string)
+	-sleeveID (string)
+	-weaponID (string)
+-status
+	-active (boolean)
+	-fighting (boolean)
+	-energy (integer)
+	-maxEnergy (integer)
+	-winRate (float)
+	-battleAttempt(integer)

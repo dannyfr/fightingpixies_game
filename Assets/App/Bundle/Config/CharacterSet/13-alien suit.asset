@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d3dad30e4269b14ba34c1289bbe736d, type: 3}
+  m_Name: 13-alien suit
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  head: {fileID: 11400000, guid: 8e0d589692e36484cb76be074ebbc6b2, type: 2}
+  body: {fileID: 11400000, guid: 43322662a0cd8a94c9ab76eee3328a82, type: 2}
+  arm: {fileID: 11400000, guid: 63d539c15bebf7a488d5e91697dc9dd0, type: 2}
+  leg: {fileID: 11400000, guid: e16e6b882207a6348893513ec864d5e7, type: 2}
+  cloth: {fileID: 11400000, guid: f26ac1b4c4d0f194cb4f3c3e65fce59b, type: 2}
+  facialHair: {fileID: 0}
+  helmet: {fileID: 0}
+  pants: {fileID: 11400000, guid: cbf52209ebba0a64284b8ab56aabc540, type: 2}
+  sleeve: {fileID: 11400000, guid: f389568e9a4441f458f4e692e1a56678, type: 2}
+  weapon: {fileID: 0}

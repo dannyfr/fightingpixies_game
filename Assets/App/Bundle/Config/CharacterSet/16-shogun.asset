@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d3dad30e4269b14ba34c1289bbe736d, type: 3}
+  m_Name: 16-shogun
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  head: {fileID: 11400000, guid: 7eb9950dec05ca74386ef893ecac3f51, type: 2}
+  body: {fileID: 11400000, guid: c3c609fed223bd64e9f6a634dec44a56, type: 2}
+  arm: {fileID: 11400000, guid: c913744277be36d49b116944f72cf7a4, type: 2}
+  leg: {fileID: 11400000, guid: 005e72a15fe20e24eb37f7bd27feb377, type: 2}
+  cloth: {fileID: 11400000, guid: 902a8af94dcdd5e42bdda17896166095, type: 2}
+  facialHair: {fileID: 11400000, guid: 2195983c7fb145b42b490ff58d834197, type: 2}
+  helmet: {fileID: 11400000, guid: 59ef43614addd2a4a9c534828ec2cb8f, type: 2}
+  pants: {fileID: 11400000, guid: 03113281138c22449b3ec5189bf9da1b, type: 2}
+  sleeve: {fileID: 11400000, guid: 5603953685990f647add53469bdf9f91, type: 2}
+  weapon: {fileID: 11400000, guid: eec0b8a9351dcd5489292153d03c3963, type: 2}

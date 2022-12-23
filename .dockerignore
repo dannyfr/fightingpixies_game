@@ -1,0 +1,15 @@
+.git
+Assets
+Logs
+Packages
+ProjectSettings
+Jenkinsfile
+Dockerfile
+.dockerignore
+Temp/
+Obj/
+UnityGenerated/
+Library/
+/Library/
+.vscode/
+.vs/

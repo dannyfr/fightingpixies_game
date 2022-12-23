@@ -1,0 +1,393 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3194a4dc514274d4db2e087c919ae812, type: 3}
+  m_Name: Stories - default
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  stories:
+  - 'is a 103-year-old former tea maker who enjoys praying, theatre and watching
+    television. She is intelligent and reliable, but can also be very cowardly and
+    a bit untidy.She is a British Christian who defines herself as bisexual. She
+    finished school and then left academia.Physically, Aquila is slightly overweight
+    but otherwise in good shape. She is tall with bronze skin, golden hair and blue
+    eyes.She grew up in a working class neighbourhood. She was raised in a happy
+    family home with two loving parents.She is currently single. Her most recent
+    romance was with a chef called Nova Dion Sylvester, who was the same age as her.
+    Nova died in 2017.The papers reported the cause of death: ''pneumonia''Aquila
+    has three children with late husband Nova: Denham aged 60, Mya aged 62 and Emmett
+    aged 68.'
+  - 'is a 122-year-old vampire who enjoys running, listening to music and golf. He
+    is stable and creative, but can also be very pessimistic and a bit impatient.In
+    2016, Sam was bitten by a vampire. After that, he became increasingly temperamental.He
+    is Australian who defines himself as bisexual. He started studying chemistry
+    at college but never finished the course. He is allergic to sunlight. He has
+    a severe phobia of stakes.Physically, Sam is in good shape. He is average-height
+    with light skin, grey hair and brown eyes. He has fangs.He grew up in a middle
+    class neighbourhood. He was raised in a happy family home with two loving parents.He
+    is currently single. His most recent romance was with a woman called Ethel Jamie
+    Hall, who was 3 years older than him. Ethel died in 1985.The papers reported
+    the cause of death: ''cancer'''
+  - is a 22-year-old vampire who enjoys travelling, swooping and meditation. He is
+    kind and careful, but can also be very lazy and a bit grumpy.In 2016, Jack was
+    bitten by a vampire. After that, he became increasingly temperamental.He is Irish
+    who defines himself as gay. He started studying business studies at college but
+    never finished the course. He is allergic to sunlight. He has a severe phobia
+    of stakes Physically, Jack is in good shape. He is tall with chocolate skin,
+    black hair and black eyes. He has fangs.He grew up in a working class neighbourhood.
+    His mother left when he was young, leaving him with his father, who was a drunk.He
+    is currently single. His most recent romance was with a student called Kieran
+    Jamal Atkinson, who was the same age as him. They broke up because Kieran wanted
+    to be with somebody who took more risks.Jack's best friend is a junior manager
+    called Kerri Anderson. They get on well most of the time. He also hangs around
+    with Connor Porter and Kian Howe. They enjoy donating blood together.
+  - is a 22-year-old vampire who enjoys yoga, camping and travelling. He is stable
+    and reliable, but can also be very cowardly and a bit untidy.In 2016, Edward
+    was bitten by a vampire. After that, he became increasingly temperamental.He
+    is Irish who defines himself as gay. He didn't finish school. He is a vegetarian
+    who is allergic to sunlight. He has a severe phobia of stakes  Physically, Edward
+    is not in great shape. He needs to lose quite a lot of weight. He is very short
+    with olive skin, copper hair and blue eyes. He has fangs.He grew up in a working
+    class neighbourhood. His parents separated when he was small, but remained friends
+    and provided a happy, stable home.Edward's best friend is a tradesperson's assistant
+    called Caelan Alvarez. They get on well most of the time. He also hangs around
+    with Barry Rivera and Connor Griffin. They enjoy football together.
+  - 'is a 70-year-old zombie who enjoys eating brains, jigsaw puzzles and walking
+    with her neck at a funny angle. She is intelligent and creative, but can also
+    be very lazy and a bit grumpy.In 2016, Ophelia was bitten. After that, her dietary
+    requirements began to change.She is a New Zealander Jedi who defines herself
+    as bisexual. She has a degree in philosophy, politics and economics. She is a
+    vegan who is allergic to walnuts. She has a severe phobia of records, and is
+    obsessed with being painted blue.Physically, Ophelia is in good shape. She is
+    short with walnut skin, black hair and black eyes. She has patches of flesh falling
+    off.She grew up in a working class neighbourhood. After her mother died when
+    she was young, she was raised by her father  She is currently single. Her most
+    recent romance was with a scientist called Grace Darcey Jackson, who was the
+    same age as her. They broke up because Grace felt threatened by Ophelia''s intelligence.Ophelia
+    has one child with ex-girlfriend Grace: Felicity aged 39.Ophelia''s best friend
+    is a senior politician called May Foster. They are inseparable. She also hangs
+    around with a senior politician called Kevin Taylor. They enjoy painting together.'
+  - 'is a 78-year-old witch who enjoys sewing, casting spells and going to the movies.
+    She is stable and caring, but can also be very lazy and a bit impatient.She is
+    British who defines herself as bisexual. She has a post-graduate degree in philosophy,
+    politics and economics. She is obsessed with Star Wars.Physically, Antonia is
+    in good shape. She is very short with light skin, golden hair and brown eyes.
+    She has one or two distinguishing features including an x-wing between her shoulder
+    blades and warts.She grew up in an upper class neighbourhood. Her parents separated
+    when she was small, but remained friends and provided a happy, stable home.She
+    is currently married to Henley Warren Hunter. Henley is the same age as her and
+    works as a journalist.Antonia has five children with husband Henley: Roxy aged
+    33, Addison aged 41, Humphrey aged 43, Darion aged 45 and Delsie aged 47.Antonia''s
+    best friend is a former senior politician called Darion Rogers. They get on well
+    most of the time. They enjoy hockey together.'
+  - is a five-year-old witch who enjoys chatting, throwing a ball and casting spells.
+    She is kind and caring, but can also be very rude and a bit grumpy.She is an
+    American Muslim. She is currently at school. She is obsessed with creating playlists.Physically,
+    Megan is in good shape. She is short for her age with olive skin, red hair and
+    black eyes. She has warts.She lives in a middle class neighbourhood. Her parents
+    abandoned her and she is living in foster care.Megan goes to Little Lobster School,
+    where her favourite subjects are technical drawing and woodwork. She loves her
+    teacher Mrs Knight but hates Ms Wells whose interests include speaking in a really
+    annoying voice.Megan's best friend is a child called Steven Greenwood. They are
+    inseparable. She also hangs around with Mindy Nicholson and Wendy Hobbs. They
+    enjoy cackling together.
+  - is a 27-year-old health centre receptionist who enjoys watching television, jigsaw
+    puzzles and escapology. He is intelligent and caring, but can also be very cowardly
+    and a bit impatient.He is Irish who defines himself as straight. He finished
+    school and then left academia.Physically, Mark is slightly overweight but otherwise
+    in good shape. He is tall with olive skin, mouse hair and blue eyes.He grew up
+    in a middle class neighbourhood. He was raised in a happy family home with two
+    loving parents.He is currently in a relationship with Maureen Saoirse Jones.
+    Maureen is 10 years older than him and works as an electrician.Mark's best friend
+    is a health centre receptionist called Shauna Carroll. They are inseparable.
+    He also hangs around with Caitlin Long and Misty Walsh. They enjoy adult colouring
+    books together.
+  - 'is a 37-year-old wizard who enjoys bowling, extreme ironing and collecting potions.
+    He is kind and careful, but can also be very cowardly and a bit moody.He is a
+    French Christian who defines himself as straight. He finished school and then
+    left academia. He is allergic to shellfish.Physically, Eder is slightly overweight
+    but otherwise in good shape. He is average-height with olive skin, black hair
+    and yellow eyes. He has long beard.He grew up in a working class neighbourhood.
+    His mother left when he was young, leaving him with his father, who was a drunk.He
+    is currently in a relationship with Chantelle Joel O''Quinn. Chantelle is 15
+    years older than him and works as a screenplay writer.Eder has one child with
+    ex-girlfriend Stella: Desiree aged 1.Eder''s best friend is a gallery-commisioned
+    artist called Leon Carter. They are inseparable. He also hangs around with Bernard
+    Wright and Catherine Gray. They enjoy yoga together.'
+  - is a 18-year-old teenager who enjoys writing, theatre and watching television.
+    She is stable and creative, but can also be very pessimistic and a bit moody.She
+    is a British Hindu who defines herself as straight. She is currently at school.
+    She is obsessed with gangnam style.Physically, Ella is in good shape. She is
+    short with olive skin, grey hair and green eyes.She grew up in a working class
+    neighbourhood. After her father died when she was young, she was raised by her
+    mother  Ella goes to Shelbyville School, where her favourite subjects are drama
+    and music. She loves her teacher Mr Hancock but hates Miss Foster whose interests
+    include putting children in detention for no reason.She is currently in a relationship
+    with Zechariah Herb Douglas. Zechariah is the same age as her and works as a
+    student.Ella's best friend is a teenager called Francine Davies. They are inseparable.
+    She also hangs around with Tavis Darby and Rylee Paige. They enjoy binge-watching
+    boxed sets together.
+  - is a thirteen-year-old vampire who enjoys travelling, podcasting and watching
+    television. He is friendly and creative, but can also be very rude and a bit
+    untidy.In 2016, Ales was bitten by a vampire. After that, he became increasingly
+    temperamental.He is a British Christian. He is currently at school. He is allergic
+    to sunlight. He has a severe phobia of stakesPhysically, Ales is in good shape.
+    He is short for his age with pale skin, golden hair and brown eyes. He has fangs.He
+    lives in a working class neighbourhood. His father passed away 11 years ago,
+    leaving his mother, a sous chef Charlene, to look after him.Ales goes to Bessie
+    Street School, where his favourite subjects are technical drawing and woodwork.
+    He loves his teacher Mr Hartley but hates Mr Norton whose interests include looking
+    like a tomato.Ales's best friend is a teenager called Colby Andrews. They get
+    on well most of the time. He also hangs around with Marie Millard and Andrina
+    Murphy. They enjoy hanging out in graveyards together
+  - is a thirteen-year-old vampire who enjoys swooping, helping old ladies across
+    the road and hanging out in graveyards. He is friendly and creative, but can
+    also be very cowardly and a bit moody.In 2017, Aeneas was bitten by a vampire.
+    After that, he became increasingly temperamental.He is a British Christian. He
+    is currently at school. He is allergic to sunlight. He has a severe phobia of
+    stakesPhysically, Aeneas is in good shape. He is short for his age with light
+    skin, brown hair and black eyes. He has one or two distinguishing features including
+    a birthmark on his left shoulder and fangs.He lives in a working class neighbourhood.
+    His father walked out 12 years ago, leaving his mother, a professional sports
+    person Jennica, to look after him.Aeneas goes to Bessie Street School, where
+    his favourite subjects are drama and music. He loves his teacher Ms Dawson but
+    hates Mr Lynn whose interests include handing out extra homework.Aeneas's best
+    friend is a teenager called Bernard Watkins. They are insearable. He also hangs
+    around with Esther Amos and Victoria Webb. They enjoy meditation together.
+  - 'is a 39-year-old wizard who enjoys camping, helping old ladies across the road
+    and collecting potions. He is kind and reliable, but can also be very cowardly
+    and a bit moody.He is British who defines himself as straight. He has a post-graduate
+    degree in chemistry. He is allergic to nickel. He has a severe phobia of crocodiles,
+    and is obsessed with jazz and colouring in.Physically, Thurio is in pretty good
+    shape. He is very short with chocolate skin, grey hair and brown eyes. He has
+    one or two distinguishing features including a tattoo of a trombone between his
+    shoulder blades and long beard.He grew up in a middle class neighbourhood. He
+    was raised by his father, his mother having left when he was young.He is currently
+    single. His most recent romance was with a lawyer called Bianca Lindsay Kent,
+    who was the same age as him. Bianca died in 2019.The papers reported the cause
+    of death: ''suicide''Thurio has one child with ex-girlfriend Kathlyn: Jenny aged
+    22.Thurio''s best friend is a scientific research team leader called Kaeden Clayton.
+    They get on well most of the time. He also hangs around with a scientific research
+    team leader called Phoebe Amos. They enjoy drone photography together.'
+  - 'is a 39-year-old wizard who enjoys glamping, worship and collecting potions.
+    He is friendly and reliable, but can also be very rude and a bit grumpy.He is
+    a British Christian who defines himself as straight. He has a post-graduate degree
+    in philosophy, politics and economics.Physically, Theo is in good shape. He is
+    average-height with pale skin, copper hair and brown eyes. He has long beard.He
+    grew up in a middle class neighbourhood. After his father died when he was young,
+    he was raised by his motherHe is currently single. His most recent romance was
+    with a receptionist called Eugenia Sharlene Lennon, who was 5 years older than
+    him. Eugenia died in 2016.The papers reported the cause of death: ''infection''Theo''s
+    best friend is a clerk called Shaquille Kendall. They have a very firey friendship.
+    He also hangs around with Bliss Hamilton and Lockie Dean. They enjoy theatre
+    together.'
+  - 'is a 22-year-old zombie who enjoys relaxing, attending museums and golf. She
+    is stable and caring, but can also be very rude and a bit untidy.In 2019, Kaitlyn
+    was bitten. After that, her dietary requirements began to change.She is an Irish
+    Muslim who defines herself as gay. She started studying philosophy, politics
+    and economics at college but never finished the course. She has phobias of heights
+    and recordsPhysically, Kaitlyn is in good shape. She is very short with chocolate
+    skin, black hair and black eyes. She has patches of flesh falling off.She grew
+    up in a middle class neighbourhood. Her parents separated when she was small,
+    but remained friends and provided a happy, stable home.She is currently single.
+    Her most recent romance was with a novelist called Cara Finley Myers, who was
+    4 years older than her. Cara died in 2020.The papers reported the cause of death:
+    ''accident - plane crash''Kaitlyn''s best friend is a town counsellor called
+    Edna Davis. They get on well most of the time. She also hangs around with Rylan
+    Thompson and Shane Griffin. They enjoy cookery together.'
+  - is a 27-year-old zombie who enjoys eating out, eating brains and helping old
+    ladies across the road. She is kind and reliable, but can also be very lazy and
+    a bit impatient.In 2016, Kaden was bitten. After that, her dietary requirements
+    began to change.She is an Irish Muslim who defines herself as straight. She didn't
+    finish school. She has a severe phobia of recordsPhysically, Kaden is in good
+    shape. She is tall with fair skin, brown hair and green eyes. She has patches
+    of flesh falling off.She grew up in an upper class neighbourhood. She was raised
+    in a happy family home with two loving parents.She is currently single. Her most
+    recent romance was with a carpenter called Glen Corey Foster, who was the same
+    age as her. They broke up because Glen wanted somebody more 'badass'.Kaden's
+    best friend is a tradesperson called Regan Hopkins. They are inseparable. She
+    also hangs around with Colleen Sweeney and Courtney Dean. They enjoy working
+    on cars together.
+  - is a 100-year-old zombie who enjoys recycling, appearing in the background on
+    TV and working on cars. She is kind and caring, but can also be very lazy and
+    a bit impatient.In 2016, Helen was bitten. After that, her dietary requirements
+    began to change.She is a New Zealander Christian who defines herself as straight.
+    She finished school and then left academia. She has phobias of feet and recordsPhysically,
+    Helen is in good shape. She is tall with walnut skin, black hair and black eyes.
+    She has one or two distinguishing features including a birthmark on her neck
+    and patches of flesh falling off.She grew up in a working class neighbourhood.
+    After her mother died when she was young, she was raised by her fatherShe is
+    currently married to Marshall Andrea Lloyd. Marshall is 19 years older than her.
+  - is a 100-year-old zombie who enjoys eating brains, cookery and golf. She is kind
+    and caring, but can also be very lazy and a bit grumpy.In 2018, Evelyn was bitten.
+    After that, her dietary requirements began to change.She is a New Zealander Christian
+    who defines herself as straight. She started studying sports science at college
+    but never finished the course. She is allergic to Brazil nuts. She has a severe
+    phobia of recordsPhysically, Evelyn is in pretty good shape. She is very short
+    with fair skin, black hair and brown eyes. She has patches of flesh falling off.She
+    grew up in an upper class neighbourhood. Her father left when she was young,
+    leaving her with her mother, who was an addict.She is currently single. Her most
+    recent romance was with an artist called Mason Cavan Armstrong, who was 3 years
+    older than her. They broke up because Mason wanted somebody more 'badass'.
+  - 'is a 100-year-old zombie who enjoys saying Grr!, painting and eating brains.
+    She is friendly and reliable, but can also be very pessimistic and a bit moody.In
+    2018, Jean was bitten. After that, her dietary requirements began to change.She
+    is a New Zealander Christian who defines herself as straight. She started studying
+    sports science at college but never finished the course. She has a severe phobia
+    of recordsPhysically, Jean is in good shape. She is very tall with walnut skin,
+    grey hair and black eyes. She has one or two distinguishing features including
+    asymmetrical ears and patches of flesh falling off.She grew up in a middle class
+    neighbourhood. She was raised by her father, her mother having left when she
+    was young.She is currently married to Wilfred Frances Ellis. Wilfred is 16 years
+    older than her.Jean has three children with husband Wilfred: Kane aged 58, Tim
+    aged 62 and Adeline aged 65.'
+  - 'is a 100-year-old zombie who enjoys walking with her neck at a funny angle,
+    recycling and playing card games. She is friendly and caring, but can also be
+    very lazy and a bit impatient.In 2019, Ann was bitten. After that, her dietary
+    requirements began to change.She is a New Zealander Christian who defines herself
+    as straight. She finished school and then left academia. She has a severe phobia
+    of recordsPhysically, Ann is not in great shape. She needs to lose quite a lot
+    of weight. She is tall with olive skin, black hair and brown eyes. She has patches
+    of flesh falling off.She grew up in a middle class neighbourhood. After her mother
+    died when she was young, she was raised by her fatherShe is currently married
+    to Zachary Stephen Hunter. Zachary is 16 years older than her.Ann has one child
+    with ex-boyfriend Morgan: Colleen aged 75.'
+  - is a five-year-old child who enjoys chatting, playing and reading. She is stable
+    and careful, but can also be very cowardly and a bit moody.She is a Canadian
+    Hindu. She is currently at school. She is a vegan. She is obsessed with jazz.Physically,
+    Maisie is in good shape. She is short for her age with pale skin, blonde hair
+    and black eyes. She has a birthmark on her neck.She lives in an upper class neighbourhood.
+    Her mother walked out 2 years ago, leaving her father, a journalist called Daylan,
+    to look after her.Maisie goes to Shelbyville School, where her favourite subjects
+    are home economics and chemistry. She loves her teacher Mr Hester but hates Mrs
+    Spencer whose interests include handing out extra homework.Maisie's best friend
+    is a child called Jorell Foster. They are inseparable. She also hangs around
+    with Tremaine Moss and Julianna Jacobs. They enjoy throwing a ball together.
+  - 'is a 113-year-old vampire who enjoys hanging out in graveyards, upcycling and
+    working on cars. She is kind and caring, but can also be very rude and a bit
+    untidy.In 2016, Mary was bitten by a vampire. After that, she became increasingly
+    temperamental.She is an Irish Hindu who defines herself as bisexual. She didn''t
+    finish school. She is allergic to sunlight. She has a severe phobia of stakes
+    Physically, Mary is not in great shape. She needs to lose quite a lot of weight.
+    She is tall with almond skin, grey hair and black eyes. She has fangs.She grew
+    up in an upper class neighbourhood. She was raised by her father, her mother
+    having left when she was young.She is currently single. Her most recent romance
+    was with an electrician called Kenneth Henley Fuller, who was the same age as
+    her. Kenneth died in 1997.The papers reported the cause of death: ''accident
+    - slipped whilst pretending to slip'' Mary has five children with late girlfriend
+    Yasmin: Tracy aged 64, Aiden aged 71, Alex aged 75, Keira aged 77 and Keeley
+    aged 78.'
+  - is a 113-year-old vampire who enjoys hanging out in graveyards, Rubix cube and
+    baking. She is intelligent and creative, but can also be very rude and a bit
+    grumpy.In 2018, Melanie was bitten by a vampire. After that, she became increasingly
+    temperamental.She is an Irish Hindu who defines herself as straight. She started
+    college but never finished the course. She is a vegan who is allergic to milk
+    and sunlight. She has phobias of ducks and stakesPhysically, Melanie is in good
+    shape. She is very short with brown skin, grey hair and black eyes. She has fangs.She
+    grew up in a working class neighbourhood. After her mother died when she was
+    young, she was raised by her fatherShe is currently single. Her most recent romance
+    was with a novelist called Alex Floyd Hardy, who was the same age as her. They
+    broke up because Melanie got fed up of being taken advantage of.
+  - is a seven-year-old child who enjoys charity work, watching television and relaxing.
+    She is kind and reliable, but can also be very cowardly and a bit moody.She is
+    New Zealander. She is currently at school. She is allergic to grasshoppers.Physically,
+    Autumn is in good shape. She is very tall for her age with bronze skin, copper
+    hair and brown eyes.She lives in a working class neighbourhood. Her mother walked
+    out 6 years ago, leaving her father, a lab assistant called Lincoln, to look
+    after her.Autumn goes to Middle Park School, where her favourite subjects are
+    chemistry and biology. She loves her teacher Miss Nguyen but hates Mr Ellis whose
+    interests include speaking in a really annoying voice.Autumn's best friend is
+    a child called Sidney Reed. They are inseparable. She also hangs around with
+    Xavier Martinez and Ellis Bryant. They enjoy going to the movies together.
+  - is a seven-year-old child who enjoys horse riding, podcasting and cycling. She
+    is friendly and creative, but can also be very pessimistic and a bit moodyShe
+    is New Zealander. She is currently at school.Physically, Maddison is in pretty
+    good shape. She is average-height for her age with walnut skin, brown hair and
+    brown eyes. She has a monobrow.She lives in an upper class neighbourhood. Her
+    mother walked out 6 years ago, leaving her father, a novelist called Leon, to
+    look after her.Maddison goes to Little Lobster School, where her favourite subjects
+    are chemistry and biology. She loves her teacher Mr Stevens but hates Mr Nguyen
+    whose interests include speaking in a really annoying voice.Maddison's best friend
+    is a child called Carter Harrison. They have a very firey friendship. She also
+    hangs around with Daria Quinn and Kyra Murray. They enjoy charity work together.
+  - is a 24-year-old government politician who enjoys watching YouTube videos, bridge
+    and badminton. He is kind and reliable, but can also be very cowardly and a bit
+    untidy.He is French who defines himself as straight. He started studying philosophy,
+    politics and economics at college but never finished the course.Physically, Nathan
+    is in pretty good shape. He is very tall with pale skin, blonde hair and blue
+    eyes. He has one or two distinguishing features including a mole on his right
+    cheek and buck teeth.He grew up in a middle class neighbourhood. His parents
+    separated when he was small, but remained friends and provided a happy, stable
+    home.He is currently single. His most recent romance was with a professional
+    sports person called Cassandra Felicia Curry, who was 19 years older than him.
+    They broke up because Cassandra felt Nathan was too much of a doormat.Nathan's
+    best friend is a government politician called Piers Mcleod. They are inseparable.
+    He also hangs around with Elisabeth Elliott and Lucian Coleman. They enjoy adult
+    colouring books together.
+  - is a 15-year-old teenager who enjoys working on cars, glamping and camping. He
+    is kind and creative, but can also be very lazy and a bit impatient.He is Australian.
+    He is currently at school. He is allergic to artificial food colourings.Physically,
+    Charlie is in pretty good shape. He is very short for his age with olive skin,
+    grey hair and brown eyes. Unusually, he has a prosthetic hand; a shark ate his.
+    He has a monobrow.He lives in a middle class neighbourhood. His father walked
+    out 14 years ago, leaving his mother, a journalist Jessica, to look after him.Charlie
+    goes to Bash Street School, where his favourite subjects are chemistry and biology.
+    He loves his teacher Mr Cook but hates Mr Turner whose interests include looking
+    like a tomato.Charlie's best friend is a teenager called Hudson Alvarez. They
+    are inseparable. He also hangs around with Mae Robertson and Arran Thompson.
+    They enjoy going to the movies together.
+  - is a 24-year-old vampire who enjoys going to the movies, watching YouTube videos
+    and badminton. He is friendly and caring, but can also be very pessimistic and
+    a bit impatient.In 2016, Jamil was bitten by a vampire. After that, he became
+    increasingly temperamental.He is an American Jedi who defines himself as bisexual.
+    He has a degree. He is allergic to sunlight. He has a severe phobia of stakes,
+    and is obsessed with creating playlists.Physically, Jamil is in pretty good shape.
+    He is tall with cocao skin, brown hair and blue eyes. He has fangs.He grew up
+    in a working class neighbourhood. After his mother died when he was young, he
+    was raised by his fatherHe is currently in a relationship with Ayda Savannah
+    Freeman. Ayda is the same age as him and works as a student.Jamil's best friend
+    is an intelligence researcher called Hafsa Norman. They have a very firey friendship.
+    He also hangs around with Hassan Hanson and Sabah Forrest. They enjoy baking
+    together.
+  - 'is a 70-year-old chef at own restaurant who enjoys adult colouring books, meditation
+    and camping. He is kind and reliable, but can also be very pessimistic and a
+    bit impatient.He is a New Zealander Jedi who defines himself as gay. He started
+    studying food science at college but never finished the course.Physically, Ben
+    is in pretty good shape. He is tall with dark chocolate skin, black hair and
+    brown eyes.He grew up in a middle class neighbourhood. His parents separated
+    when he was small, but remained friends and provided a happy, stable home.He
+    is currently in a relationship with Walter Lennon Fletcher. Walter is the same
+    age as him and works as an artist.Ben has three children with late boyfriend
+    Zane: Tiffany aged 35, Erin aged 37 and Alison aged 42.Ben''s best friend is
+    a chef at own restaurant called Candice Byrne. They have a very firey friendship.
+    He also hangs around with a chef at own restaurant called Jodi Russell. They
+    enjoy donating blood together.'
+  - is a 21-year-old business studies student whose life is dominated by solving
+    the murder of his sister, Virginia Cooley. Virginia was poisoned in 2019 and
+    the killer was never brought to justice.He is a New Zealander Jedi who defines
+    himself as bisexual. He is currently at college. studying business studies. He
+    has a severe phobia of apostrophesPhysically, Bryn is slightly overweight but
+    otherwise in good shape. He is average-height with fair skin, grey hair and brown
+    eyes.He grew up in a working class neighbourhood. His father left when he was
+    young, leaving him with his mother, who was an addict.He is currently single.
+    His most recent romance was with a semi-professional sports person called Ivy
+    Miranda Torres, who was 19 years older than him. They broke up because Ivy couldn't
+    deal with Bryn's obsession with Virginia's death.Bryn's best friend is a business
+    studies student called Carter Hill. They get on well most of the time. He also
+    hangs around with Sally Chapman and Jesse Griffiths. They enjoy football together

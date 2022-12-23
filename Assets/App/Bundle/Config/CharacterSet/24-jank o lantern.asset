@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d3dad30e4269b14ba34c1289bbe736d, type: 3}
+  m_Name: 24-jank o lantern
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  head: {fileID: 11400000, guid: f4824a3fe7925fe49995f50a3ad61521, type: 2}
+  body: {fileID: 11400000, guid: 8b3f799a8df4ebb4eb60dcd7fb6fcd65, type: 2}
+  arm: {fileID: 11400000, guid: 22ec5899be251d848b7e5e7c0eafcce0, type: 2}
+  leg: {fileID: 11400000, guid: 27d6214a0284e18458b8b7270a649ed9, type: 2}
+  cloth: {fileID: 11400000, guid: f2b8441009051f848a3484cd1c47ed75, type: 2}
+  facialHair: {fileID: 0}
+  helmet: {fileID: 0}
+  pants: {fileID: 11400000, guid: c537bfb1b3d383d47b12527ca752f227, type: 2}
+  sleeve: {fileID: 11400000, guid: e1e513fdcf96d6a42bd7aa70009584e0, type: 2}
+  weapon: {fileID: 11400000, guid: 258c5d2c5eafcb04395e7c152a81d807, type: 2}

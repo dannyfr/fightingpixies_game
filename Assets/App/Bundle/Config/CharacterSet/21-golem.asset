@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d3dad30e4269b14ba34c1289bbe736d, type: 3}
+  m_Name: 21-golem
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  head: {fileID: 11400000, guid: 3dbeba86f458d1b45acaa97814fbe113, type: 2}
+  body: {fileID: 11400000, guid: f8ff191634a7c1b46b217b7743337971, type: 2}
+  arm: {fileID: 11400000, guid: f00cafefc9e2db54eaf399c9b437b6f8, type: 2}
+  leg: {fileID: 11400000, guid: 031495f123a4a524fb0423b4e1bd6ddf, type: 2}
+  cloth: {fileID: 0}
+  facialHair: {fileID: 0}
+  helmet: {fileID: 0}
+  pants: {fileID: 0}
+  sleeve: {fileID: 0}
+  weapon: {fileID: 0}
